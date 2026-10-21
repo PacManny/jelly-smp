@@ -1,0 +1,13 @@
+name = "Diagonal Fences"
+filename = "diagonalfences-v26.3.0-mc26.3.x+neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cee4a657f774bde5772a1e122d3ef5de4cc8355a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8953014
+project-id = 458048
