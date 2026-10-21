@@ -1,0 +1,13 @@
+name = "Light Level Overlay"
+filename = "lightleveloverlay-26.3-neoforge-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "96fde4099a983d04a26126263f51ef7b09cfd926"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8937235
+project-id = 1510447

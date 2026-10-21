@@ -1,6 +1,15 @@
 hash-format = "sha256"
 
 [[files]]
+file = "docker-compose.yml"
+hash = "19bb9d7082767d2ac8bb5cc43360bb3ed1c82c6e086cc2a548bf0116c395b650"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "39f92852bc6dee7f2552faed90653e42a944d0c8b849514859b5583d0847095f"
+metafile = true
+
+[[files]]
 file = "mods/advanced-hook-launchers.pw.toml"
 hash = "f02de72000a1475d89a46a81fc1ef5137e0a3ddd3da58d573c281efffb7338d1"
 metafile = true
@@ -108,11 +117,6 @@ metafile = true
 [[files]]
 file = "mods/common-capabilities.pw.toml"
 hash = "26c1992b19c85d9be784b8717c349ebd45424a3295930006e147f5ea0b73dfed"
-metafile = true
-
-[[files]]
-file = "mods/connected-glass.pw.toml"
-hash = "fe41c148ea931a29ba62f285885d5c21645f927441b12f29f4faeec04dec8237"
 metafile = true
 
 [[files]]
@@ -301,11 +305,6 @@ hash = "4cdef26cb25126fbf0f0b72ec7ccd4f285155c932140d3acc72787af35aef3b5"
 metafile = true
 
 [[files]]
-file = "mods/glassential-renewed.pw.toml"
-hash = "06029b2792cbcfe9d7a1d70e8ffb57ccd914b948347be2387a2dfed07f849b45"
-metafile = true
-
-[[files]]
 file = "mods/guideme.pw.toml"
 hash = "3ac3aa7bd46356a00451f3e206db8dff1a361a92d2e94ada88dbc6558c3ff94e"
 metafile = true
@@ -356,11 +355,6 @@ hash = "325cb650dd2f695a031869cfdb14c26c41ecc102beedd2eab5b26865a22acb90"
 metafile = true
 
 [[files]]
-file = "mods/irisshaders.pw.toml"
-hash = "8c7f0a020c3e88664c1270f800a4d677f1639dba36a80350a10dcb991203a309"
-metafile = true
-
-[[files]]
 file = "mods/iron-generators.pw.toml"
 hash = "7406a610ae15ddae25fe9cf4a079070bcc6bef7ea0cc98233ddcdd8956adc36b"
 metafile = true
@@ -396,11 +390,6 @@ hash = "00b58d086e79b9b52bba66105edf9d8dcf8cf857f8d23d3ff9a69f0f8c88c0a7"
 metafile = true
 
 [[files]]
-file = "mods/just-enough-resources-jer.pw.toml"
-hash = "7e7c47bf2b12854366a12a763a184ef35bf6a9c2c1b6dca1b1d35f3e4d6f810c"
-metafile = true
-
-[[files]]
 file = "mods/justhammers.pw.toml"
 hash = "05ea0da76c2e429020ff9ea602f5964984eb46c76aac50e53c5039b53ea673bf"
 metafile = true
@@ -413,6 +402,11 @@ metafile = true
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "7b2b78c79ff0edcb678232b99e4f090bfa195ebbfce9dd906cc06f66bfdceb26"
+metafile = true
+
+[[files]]
+file = "mods/light-level-overlay.pw.toml"
+hash = "3aa3c9657d5574f1660e58fb4dc96abf46fb3a4f3a62755aeed1ec9e742e20ca"
 metafile = true
 
 [[files]]
@@ -621,16 +615,6 @@ hash = "0b8d535d262f4a0f83f7c19692f7ae09818825ee1bd21ce361b3259c8c305738"
 metafile = true
 
 [[files]]
-file = "mods/resourceful-bees.pw.toml"
-hash = "ba80e81fc1a46e02c49e991da6c83f8de82458bea6b072ba51994de1d6cb14dc"
-metafile = true
-
-[[files]]
-file = "mods/resourceful-lib.pw.toml"
-hash = "cb087f1ccde91ff7bb2e6b599ec94081528dc59ca48ac54738dda09f15dec498"
-metafile = true
-
-[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "ecd9fcd9f20049256b0897c713349576a6593e62acd1115de606a995a5f247e1"
 metafile = true
@@ -673,11 +657,6 @@ metafile = true
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "f40ce1269835b947159282258da10cfa2ed10cb9a878225d1bbad5520b537d77"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "e3c9c94757424f31a3026d809b37b024610eed52f3d8c9f518f3dcfbbfd14ce5"
 metafile = true
 
 [[files]]
@@ -748,9 +727,4 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "6ab091612cebe8758f9e0ce754e0e7753af25589a1b3b4a639c196fc385c24cc"
-metafile = true
-
-[[files]]
-file = "mods/ydms-weapon-master.pw.toml"
-hash = "3fc68013ec3f09e604d904805c85d5811dd67853e0c804234684990dc9822998"
 metafile = true

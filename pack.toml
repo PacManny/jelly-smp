@@ -1,12 +1,12 @@
-name = "Jelly SMP"
-author = "PacManny"
-version = "1.0.0"
+name = "Jelly Smp"
+author = "pacmanny"
+version = "1.0.0-alpha"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "95588a2524905fe85d8d1fb1ec75ea0c42080634e7baae1ead8fa054d2aeddb0"
+hash = "b016128d500d4a984dba0da04b76e63838bd66bac4f661c1be7eb9088cf2b2f4"
 
 [versions]
 minecraft = "26.3"
