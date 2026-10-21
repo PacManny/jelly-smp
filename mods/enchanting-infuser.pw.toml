@@ -1,0 +1,13 @@
+name = "Enchanting Infuser"
+filename = "enchantinginfuser-v26.3.0-mc26.3.x+neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8929b48fb0f086298ca27599a4096da0130386cc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8956357
+project-id = 551151

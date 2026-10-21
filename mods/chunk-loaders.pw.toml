@@ -1,0 +1,13 @@
+name = "Chunk Loaders"
+filename = "chunkloaders-1.2.9-neoforge-mc26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "824cfdfc3697c7508fca63820721485df158422a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8888067
+project-id = 402924

@@ -1,0 +1,13 @@
+name = "Pig Pen Cipher"
+filename = "PigPen-neoforge-MC26.3-26.3.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "422e3d89d20c50b28e0fe430ca6fb53a21b746ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8968725
+project-id = 396234

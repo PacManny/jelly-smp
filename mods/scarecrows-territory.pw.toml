@@ -1,0 +1,13 @@
+name = "Scarecrows' Territory"
+filename = "scarecrowsterritory-1.1.12-neoforge-mc26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fa1012b25e0e2442922b7fab109c48c541270b3d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8911577
+project-id = 435965

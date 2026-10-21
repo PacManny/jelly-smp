@@ -1,0 +1,13 @@
+name = "Better Respawn"
+filename = "better-respawn-neoforge-2.1.1+26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "91c6621f7c786032d9d144136936f25657422966"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9106602
+project-id = 340907

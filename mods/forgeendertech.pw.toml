@@ -1,0 +1,13 @@
+name = "ForgeEndertech"
+filename = "forgeendertech-26.3.0.1-neoforge-build.0125.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2f871e81ee7dac88290a562556ffc32f6c0e659d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9119060
+project-id = 244844

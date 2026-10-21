@@ -1,0 +1,13 @@
+name = "Runelic"
+filename = "Runelic-neoforge-MC26.3-26.3.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8a14898e4d6dd7f65198d70b1e1b4caab235d6ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8968703
+project-id = 393149

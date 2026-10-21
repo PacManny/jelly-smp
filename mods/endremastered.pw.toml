@@ -1,0 +1,13 @@
+name = "End Remastered [NeoForge/Fabric]"
+filename = "endrem-neoforge-26.3-6.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ecd2b8c48e7c8ec83ed6de73da9a4f7148c3b507"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9183392
+project-id = 404183

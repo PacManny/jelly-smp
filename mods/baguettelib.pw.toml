@@ -1,0 +1,13 @@
+name = "BaguetteLib"
+filename = "baguettelib-26.3-NeoForge-2.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "65fd5cf154655b2b649dd01b510ecbad85ac3689"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9134480
+project-id = 1264423

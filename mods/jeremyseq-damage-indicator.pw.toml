@@ -1,0 +1,13 @@
+name = "JeremySeq's Damage Indicators"
+filename = "jdamageindicators-neoforge-26.3-2.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0d09f8cb59386609a1fac2a0282136e657298940"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9150063
+project-id = 881096

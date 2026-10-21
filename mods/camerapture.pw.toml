@@ -1,0 +1,13 @@
+name = "Camerapture"
+filename = "camerapture-1.10.15+mc26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "48489e23ebd921c9dd95bbbc8eb713bf9b566a10"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8913534
+project-id = 1051342

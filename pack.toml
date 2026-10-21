@@ -1,0 +1,13 @@
+name = "Jelly SMP"
+author = "PacManny"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "95588a2524905fe85d8d1fb1ec75ea0c42080634e7baae1ead8fa054d2aeddb0"
+
+[versions]
+minecraft = "26.3"
+neoforge = "26.3.0.95"

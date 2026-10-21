@@ -1,0 +1,13 @@
+name = "JourneyMap"
+filename = "journeymap-neoforge-26.3-6.0.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bbabff96d7e83742f6ce5b193cbdecc363ab33c4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9049822
+project-id = 32274

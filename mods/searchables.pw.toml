@@ -1,0 +1,13 @@
+name = "Searchables"
+filename = "Searchables-neoforge-26.3-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "674a24084048f85403b6541033dbff53c24b662d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9110867
+project-id = 858542

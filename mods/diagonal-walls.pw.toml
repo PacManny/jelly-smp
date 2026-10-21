@@ -1,0 +1,13 @@
+name = "Diagonal Walls"
+filename = "diagonalwalls-v26.3.0-mc26.3.x+neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "232568b7cf995fb862113714bd0b65431f0886d0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8952991
+project-id = 969422

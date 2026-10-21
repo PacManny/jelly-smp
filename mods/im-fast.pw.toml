@@ -1,0 +1,13 @@
+name = "I'm Fast"
+filename = "imfast-NEOFORGE-26.3-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b6562b4fdf0afe5dc5adc5d2c3de1fceae0bb0a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9122068
+project-id = 1111501

@@ -1,0 +1,13 @@
+name = "DarkLoot - RPG Mob Loot & Heads"
+filename = "darkloot-neoforge-26.2-1.3.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4e934996503488127125c99fa30fafbeb695c7bb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9149516
+project-id = 677987

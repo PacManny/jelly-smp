@@ -1,0 +1,13 @@
+name = "Eternal Nether"
+filename = "eternalnether-v26.3.0-mc26.3.x+neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a7f0968ec9829e188d9420b998b95983d0f0f67c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8994587
+project-id = 1252482

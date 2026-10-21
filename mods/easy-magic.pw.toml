@@ -1,0 +1,13 @@
+name = "Easy Magic"
+filename = "easymagic-v26.3.0-mc26.3.x+neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0f0ccc4c42961f65b1671532fb19296957c59e6e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8958973
+project-id = 456239

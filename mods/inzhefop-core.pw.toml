@@ -1,0 +1,13 @@
+name = "inzhefop's Core"
+filename = "inzhefopcore-1.0.2-neoforge-26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "61b9ec93b9140c751bfc4080d1e0517f52b05adc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9008993
+project-id = 434516

@@ -1,0 +1,13 @@
+name = "Advanced Hook Launchers"
+filename = "adhooks-26.3.0.0-neoforge-build.0062.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e38b2507b236b9556bea114fdd29b65077471e6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8921722
+project-id = 244849

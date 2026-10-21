@@ -1,0 +1,13 @@
+name = "Cut Through"
+filename = "cutthrough-v26.3.0-mc26.3.x+neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a0eb2ecd2650d0780360ec3970a2a55e227e4f7c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8953991
+project-id = 969423

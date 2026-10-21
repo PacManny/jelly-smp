@@ -1,0 +1,13 @@
+name = "Mob Lassos"
+filename = "moblassos-v26.3.0-mc26.3.x+neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "be5272471f3e160da22b819ff211d3f1ee7d925f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8963264
+project-id = 852670

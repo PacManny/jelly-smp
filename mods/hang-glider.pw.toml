@@ -1,0 +1,13 @@
+name = "Hang Glider"
+filename = "hangglider-v26.3.0-mc26.3.x+neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fee92d532af4086b2b2f45c9d05414989e2a2d27"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8982631
+project-id = 852668

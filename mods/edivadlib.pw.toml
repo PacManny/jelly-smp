@@ -1,0 +1,13 @@
+name = "EdivadLib"
+filename = "EdivadLib-26.3-4.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e984cf3908f6609d1d5fed9da8e15085bba3c1b6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9221330
+project-id = 638508

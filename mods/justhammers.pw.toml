@@ -1,0 +1,13 @@
+name = "JustHammers"
+filename = "just-hammers-neoforge-26.3.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "32c22193a10767bee9c5d4f2ce5fbd8a24f5eb0b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8991852
+project-id = 681606

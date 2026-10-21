@@ -1,0 +1,13 @@
+name = "Repurposed Structures (Neoforge/Forge)"
+filename = "repurposed_structures-7.8.4+26.3-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "326c6f39f86424579ec0bba483e34f91e30b0df1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9131180
+project-id = 368293

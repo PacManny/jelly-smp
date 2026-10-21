@@ -1,0 +1,13 @@
+name = "Measurements"
+filename = "Measurements-neoforge-26.3-6.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d2fb7cbc95310c842a6bdbaa545e23767204cc53"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8907264
+project-id = 478559

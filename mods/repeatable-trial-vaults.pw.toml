@@ -1,0 +1,13 @@
+name = "Repeatable Trial Vaults"
+filename = "repeatable_trial_vaults-neoforge-26.3-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3731892df4e808841ab56dcfb179e5248c7f03a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8906040
+project-id = 1070541

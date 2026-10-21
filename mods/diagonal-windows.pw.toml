@@ -1,0 +1,13 @@
+name = "Diagonal Windows"
+filename = "diagonalwindows-v26.3.0-mc26.3.x+neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ce5c839a34002c5c8184d75ca504823d65a44002"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8953011
+project-id = 891328

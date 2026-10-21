@@ -1,0 +1,13 @@
+name = "Mythic Upgrades"
+filename = "mythicupgrades-neoforge-26.3-5.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "53b0510f36d686716abc643f727f29e282aacff1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8999861
+project-id = 663567

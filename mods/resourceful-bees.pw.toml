@@ -1,0 +1,16 @@
+name = "Resourceful Bees"
+filename = "resourcefulbees-2.0.0-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "868afeb5043ce70259ba1d3907011f9eadac905e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8991162
+project-id = 384508
+
+[option]
+optional = true
