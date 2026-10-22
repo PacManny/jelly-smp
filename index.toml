@@ -566,6 +566,11 @@ hash = "4db2e323a96a858c5b19d5d25c319a5c756bf84cba82959b77cd79d8512ae8d4"
 metafile = true
 
 [[files]]
+file = "mods/polymorph-plus.pw.toml"
+hash = "b76f5a0a786b23324acd05c3a56160b614e28824759febe972a55b8deec7ab45"
+metafile = true
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "94a07993a46684b6ff67d870772daa0c1559e72dd5a3929c2fede0c54c5a251f"
 metafile = true
