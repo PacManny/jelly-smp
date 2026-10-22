@@ -1,6 +1,6 @@
 name = "Just Enough Professions (JEP)"
 filename = "JustEnoughProfessions-neoforge-26.3-130.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
