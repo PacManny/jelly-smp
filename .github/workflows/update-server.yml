@@ -1,0 +1,13 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Trigger Portainer Update
+on:
+  push:
+    branches: [ master ]
+jobs:
+  ping-portainer:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fire Webhook
+        run: |
+          curl -X POST "${{ secrets.PORTAINER_WEBHOOK_URL }}"
