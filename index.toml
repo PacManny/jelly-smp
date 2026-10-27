@@ -451,6 +451,11 @@ hash = "483455cc5793ac74a4b48a7263dc0302d072cb099017ef4dbd79636b95f17a8c"
 metafile = true
 
 [[files]]
+file = "mods/loyal-companions.pw.toml"
+hash = "a96eacac375fcd8dd68eccc40452690beda615ab701d196e50dad62469fc38a5"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "c18f22c5c736ca2603a14a65acb506e8bd95139507c7c663c3b05204271aa6e5"
 metafile = true
@@ -616,6 +621,11 @@ hash = "535f9b0bc17109c2cbd4b9c4a337ce6afca945b417d2dc4e686c4b78585f3322"
 metafile = true
 
 [[files]]
+file = "mods/partylink.pw.toml"
+hash = "3f24bb610bae8a88dd0bf3aa8a0238bd67feccc9d9437c051bae6151cc098a52"
+metafile = true
+
+[[files]]
 file = "mods/pig-pen-cipher.pw.toml"
 hash = "60c06c179c9632a35f4ca3b816eafb1c665778bafa5b5efadc88dfc6a0a12dcc"
 metafile = true
@@ -693,6 +703,11 @@ metafile = true
 [[files]]
 file = "mods/shogi.pw.toml"
 hash = "25b816c52dd4c6e939b4848d5c60492c2d65e652ffc0b82950b116705a21f9a7"
+metafile = true
+
+[[files]]
+file = "mods/solo-mining.pw.toml"
+hash = "7071f8949fe17795f2cd151bc86585a3bd0a676953e4db01790e233fe2f76584"
 metafile = true
 
 [[files]]
