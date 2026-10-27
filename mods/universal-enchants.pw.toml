@@ -1,13 +1,13 @@
 name = "Universal Enchants"
-filename = "universalenchants-v26.3.1-mc26.3.x+neoforge.jar"
+filename = "universalenchants-v26.3.2-mc26.3.x+neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "359bd5c07ff066cf8a740f52810d8db630470f4a"
+hash = "2a1b05cbd9eb26eb1586329b3efe21e462ae167a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9013193
+file-id = 9274906
 project-id = 593958

@@ -1,13 +1,13 @@
 name = "Explorations"
-filename = "explorations-neoforge-26.3-1.6.4.jar"
+filename = "explorations-neoforge-26.3-1.6.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9c8257769127866617f38ac2c24e6edd02463e94"
+hash = "d474a688d7b6181ea1c3d54c5353431db2a402c3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9112805
+file-id = 9302275
 project-id = 550247

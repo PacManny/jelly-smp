@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "0705f225a16abad779a1b839c462f703b720cc99753edc4b66f01d0a63407c61"
+hash = "e67d79b8deed5ab727d04ddcd9fc4ea1ba116a941c14c617092a27e9511a2b86"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse.pw.toml"
-hash = "6a630e9710eef37b1a71f9ec7bc1f92df7cbcf8c54ae771122da8a07efd743aa"
+hash = "b69bd2823b120119cea8c1ac2171398dbae5b5139a8af69fee91d4fd00154763"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/energized-power.pw.toml"
-hash = "acceb2690bd3fc9e21181be1e888f7d451f6ea2d858a401a6b2b14b23a5edb01"
+hash = "d438cf2a7e7bcb74c8cc99eaf68bf9f03e9526593bb2fc29837d17eb99b8c37f"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/explorations.pw.toml"
-hash = "4cd19894b86708e0dafc4f3602d00ff33a2e01be7ef4dbb962f29555b8d39031"
+hash = "8f6e16fe21e090aed1b02908577fd8e09272389ed6a004ce074f4bed865b43fd"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "6ac826965cab4c07ff6632e18810e522d5372d2d7852940291ade0dabeebc4e7"
+hash = "f22263af4af9a6ce3d553309f222aa2f78967d42579dc6cf7181d083a47f569f"
 metafile = true
 
 [[files]]
@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/mezzconfig.pw.toml"
-hash = "097d47b7063fc7a49aabb7557f728b906c3ed0b280f0b7c5896b57e3e4498934"
+hash = "908df1c99f5598f07399c35f6f639de0005323939c4c2de30f074c54e93b84a3"
 metafile = true
 
 [[files]]
@@ -577,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "39120e700059385dba42ab98bdf4fc7f0a57a90c2ff2bed70bda7493e0d0ff32"
+hash = "63f130035bdb3ba9e134830467f6f6075a593a1dfb14d7c9e2133d16a89f788d"
 metafile = true
 
 [[files]]
@@ -637,17 +637,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "461415a5f15d7b235d9f23f71898abf48eaccc9d2ebbfd4a86b7000791c383c9"
+hash = "38aeef7222436244244db34c85fe5fee4c67dd3a0956f6bd0b0bdb9fa0ca99dd"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "d21a502c85c61cf02f2874b0acc089006755c494c85560bb8e36611970c9fc74"
+hash = "12634ef21b7655934c3bcd55766966dc78f028d059f563b2c775fac0d13a6dd1"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "47abaefe2c2b84af32b2dc986c1bdd8fb4af913545ae68a523926d46e4219607"
+hash = "64c1a682fa765addcdfd832032610c991a37bfbd6d889443281f4592739ce491"
 metafile = true
 
 [[files]]
@@ -682,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
-hash = "70db103389ee06ae4cb99fbc1d7c95c0a4aa29a46c905f5164257c2fd0f6b126"
+hash = "68882bf0b6594ed92868fb375eeffe42dd3de441faa0cfd14866258774d1710d"
 metafile = true
 
 [[files]]
@@ -697,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-enchants.pw.toml"
-hash = "b4f306165b88713fe78b0276f2747bae6525458b17cbd41ca84fc4bb26f8e69e"
+hash = "5ab808288f1e6a7b37f6f1337d8df676833964a8965cc9b68ce4aea9b062bad0"
 metafile = true
 
 [[files]]
