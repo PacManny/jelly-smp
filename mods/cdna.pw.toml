@@ -3,11 +3,11 @@ filename = "chestdna-1.03q-mc26.3-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9542330b1cf8e5c5688ff6def8183202301251f6"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/E12tucSY/versions/Ierb3HBD/chestdna-1.03q-mc26.3-neoforge.jar"
+hash-format = "sha512"
+hash = "9d556b41802264fede67be2ccfcdc3c6784ef3c43c5a76bf5414a3ef6003bcc88eea8ab311457f6f9eb3e2262ada95748fcea686160c31d080125da68af9b264"
 
 [update]
-[update.curseforge]
-file-id = 9039985
-project-id = 1649754
+[update.modrinth]
+mod-id = "E12tucSY"
+version = "Ierb3HBD"

@@ -6,11 +6,6 @@ hash = "39f92852bc6dee7f2552faed90653e42a944d0c8b849514859b5583d0847095f"
 metafile = true
 
 [[files]]
-file = "mods/absolute-order.pw.toml"
-hash = "dc4f9dc37a1b97e7f763024eea9069818d54127b40bd54a48a1040eefeb07444"
-metafile = true
-
-[[files]]
 file = "mods/advanced-hook-launchers.pw.toml"
 hash = "f02de72000a1475d89a46a81fc1ef5137e0a3ddd3da58d573c281efffb7338d1"
 metafile = true
@@ -97,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/cdna.pw.toml"
-hash = "1e9abc93d8540c0a958aa0920a11af48d4d5f1dd251a0ad26278b499d6e9e51d"
+hash = "5d45ac9835649211cf3b0049ebb84915a9aad518253b446551c1b2a6101091a3"
 metafile = true
 
 [[files]]
@@ -456,11 +451,6 @@ hash = "483455cc5793ac74a4b48a7263dc0302d072cb099017ef4dbd79636b95f17a8c"
 metafile = true
 
 [[files]]
-file = "mods/loyal-companion.pw.toml"
-hash = "6445a969144318abfe3229bb0a97b017fe59858c298a055bd3d4c77258f5b5f1"
-metafile = true
-
-[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "c18f22c5c736ca2603a14a65acb506e8bd95139507c7c663c3b05204271aa6e5"
 metafile = true
@@ -626,11 +616,6 @@ hash = "535f9b0bc17109c2cbd4b9c4a337ce6afca945b417d2dc4e686c4b78585f3322"
 metafile = true
 
 [[files]]
-file = "mods/party-link-groups-share-xp-and-more.pw.toml"
-hash = "8e1c08a840e28aeb23e51154830404069356df544dfc79b670a879994b25ce2b"
-metafile = true
-
-[[files]]
 file = "mods/pig-pen-cipher.pw.toml"
 hash = "60c06c179c9632a35f4ca3b816eafb1c665778bafa5b5efadc88dfc6a0a12dcc"
 metafile = true
@@ -708,11 +693,6 @@ metafile = true
 [[files]]
 file = "mods/shogi.pw.toml"
 hash = "25b816c52dd4c6e939b4848d5c60492c2d65e652ffc0b82950b116705a21f9a7"
-metafile = true
-
-[[files]]
-file = "mods/solo-mining.pw.toml"
-hash = "4446b238b2084dccd37b57bc46fe15ccbe83ac6268464b4dcdd5db38e3e60709"
 metafile = true
 
 [[files]]
