@@ -1,0 +1,13 @@
+name = "Solo Mining"
+filename = "solo-mining-neoforge-26.3-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "40896c9f5e1ff2feb9aac52bdab70298e8bba3a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8894983
+project-id = 1669353

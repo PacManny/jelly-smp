@@ -1,0 +1,13 @@
+name = "Much More Dungeons"
+filename = "muchmoredungeons-neoforge-26.3-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0bbd3a8e6564f73fbc9a6de4bb8f2bdcb14b63c3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9317381
+project-id = 1499714

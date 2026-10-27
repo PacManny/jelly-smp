@@ -1,0 +1,13 @@
+name = "Dungeons and Taverns Mineshaft Overhaul"
+filename = "DnT-mineshaft-overhaul-2.0.1 [Neoforge].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ebb4650501ca820bec011dcff2c4e2a0bd8cf3f1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8926245
+project-id = 1494838

@@ -1,0 +1,13 @@
+name = "Chest DNA"
+filename = "chestdna-1.03q-mc26.3-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9542330b1cf8e5c5688ff6def8183202301251f6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9039985
+project-id = 1649754

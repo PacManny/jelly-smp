@@ -1,0 +1,13 @@
+name = "Party Link - Groups, Share Xp, and more"
+filename = "partylink-neoforge-26.3-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cfb5c6d661dd5e00e39da01aa7ef94af04bd93f4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9317920
+project-id = 1525839

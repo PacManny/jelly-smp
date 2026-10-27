@@ -1,0 +1,13 @@
+name = "Absolute Order: Custom Chest Auto-Sorter"
+filename = "AbsoluteOrder-2.0.0-neoforge-mc26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "36cfcd130b2276a21b5d354134199fad1456acc2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8945556
+project-id = 1460376
