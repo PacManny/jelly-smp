@@ -6,6 +6,11 @@ hash = "39f92852bc6dee7f2552faed90653e42a944d0c8b849514859b5583d0847095f"
 metafile = true
 
 [[files]]
+file = "mods/absolute-order.pw.toml"
+hash = "dc4f9dc37a1b97e7f763024eea9069818d54127b40bd54a48a1040eefeb07444"
+metafile = true
+
+[[files]]
 file = "mods/advanced-hook-launchers.pw.toml"
 hash = "f02de72000a1475d89a46a81fc1ef5137e0a3ddd3da58d573c281efffb7338d1"
 metafile = true
