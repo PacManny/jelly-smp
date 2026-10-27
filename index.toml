@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-overlays.pw.toml"
-hash = "8c2d99252fd387ea91ae875854b16de0ea876013578607c758c077bd9ae49379"
+hash = "804bcd09eb5eedae5a433ab330f5c20b2805b52d8c1358cd0e6d2b50d28af077"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
-hash = "5256e27a9514af502f93177fdaf2e5ed917006f14f036eae29745f8b62179505"
+hash = "dfbd71c19636f108c8275396149b6cbe59a6e54380f99c7e10354b713511058f"
 metafile = true
 
 [[files]]
@@ -742,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/studious-keybinds.pw.toml"
-hash = "6d5e8561b418deb7f19eb54a97230482a3492963eea54e119b78a5acc8235c73"
+hash = "7837e64535a4fb6dfafd74cd8d395c935ff27acc74a2bed2d378475f2fec229e"
 metafile = true
 
 [[files]]
