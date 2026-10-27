@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "c7cabe8c6fe6fe45b026661577713bb730fd18b075485d2179bd94a24f1b8bbf"
+hash = "6c955bfe688128cc3765d950c34ab2aca9208bdcf67da7e336a9970e92507502"
 metafile = true
 
 [[files]]
@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "f6d8878172c3b65ef891a76e60d5a6565c9dcd4187d60d0c29b607fc9f6e7b12"
+hash = "549756e6ad044c4dcb10f2eec757955a9960068d296b7a2b2ea6c1936bfbc599"
 metafile = true
 
 [[files]]
@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.pw.toml"
-hash = "bec693070890b2686782df898e91949ecdb4a388a1408d17e4ededee1e08084f"
+hash = "ed7aaaca53040a6b210f9275d0c9fbfd3caed154d83894dfbfcb4795d928db66"
 metafile = true
 
 [[files]]
