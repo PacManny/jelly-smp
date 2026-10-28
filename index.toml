@@ -276,8 +276,8 @@ hash = "8eb6ea18fbd88dda6f4a4d3a18f5eec4739f2d8fb6a81167f1dc6a931f6e897e"
 metafile = true
 
 [[files]]
-file = "mods/expanded-enchantments-get-more.pw.toml"
-hash = "6ce55f0fbd6cec3c74fa0049a5bea774008fdeeb76d1d0df3a0bbcea65af0b20"
+file = "mods/expanded-enchantments.pw.toml"
+hash = "38aba870b6c06dbfe12cf509e378938867323485c36b07d10dbba3fb980e1632"
 metafile = true
 
 [[files]]
