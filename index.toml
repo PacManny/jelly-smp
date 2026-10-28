@@ -126,6 +126,11 @@ hash = "26c1992b19c85d9be784b8717c349ebd45424a3295930006e147f5ea0b73dfed"
 metafile = true
 
 [[files]]
+file = "mods/consolefilternext.pw.toml"
+hash = "2ee1c63573b03da3b7ad7c875e6e54dbe4d083fad6f1243c89404a7e1ff025be"
+metafile = true
+
+[[files]]
 file = "mods/construction-sticks.pw.toml"
 hash = "513de34b51cc6d5b41c193c78809750e9f0f66cd138d6b0383c894613666f175"
 metafile = true

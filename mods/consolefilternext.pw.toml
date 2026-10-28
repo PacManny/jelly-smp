@@ -1,0 +1,13 @@
+name = "Console Filter Next"
+filename = "consolefilternext-26.3-4.2.0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tFqJGW2q/versions/E1BY8oAt/consolefilternext-26.3-4.2.0-neoforge.jar"
+hash-format = "sha512"
+hash = "cac8ece70f300b170f97f65100e897c0173ed11a6fb6e9fd3209726786bfa9cd23713380d4b069eacce34ec918869bfa1af5c05040ccc94540a231b0c14e26e7"
+
+[update]
+[update.modrinth]
+mod-id = "tFqJGW2q"
+version = "E1BY8oAt"
