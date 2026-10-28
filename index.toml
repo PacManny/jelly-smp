@@ -776,6 +776,11 @@ hash = "ec76c44e2bf09f7b3275f816ca50b33c68d9e7d576074d706759d8d75dd5ac7e"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "d65ad29b9e9d012fea220ae2cf269441310ae71126ad0466bef347d299de5f94"
+metafile = true
+
+[[files]]
 file = "mods/spice-of-life-carrot-edition.pw.toml"
 hash = "305218871a43a97074c4de76410093c2999215bd6519202fdca988a75aafd816"
 metafile = true
