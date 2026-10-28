@@ -276,6 +276,11 @@ hash = "8eb6ea18fbd88dda6f4a4d3a18f5eec4739f2d8fb6a81167f1dc6a931f6e897e"
 metafile = true
 
 [[files]]
+file = "mods/expanded-enchantments.pw.toml"
+hash = "38aba870b6c06dbfe12cf509e378938867323485c36b07d10dbba3fb980e1632"
+metafile = true
+
+[[files]]
 file = "mods/explorations.pw.toml"
 hash = "d7057c1ef53de41a7574d951c0854437a714bc3cba8eb04504ffbb4c4211924d"
 metafile = true
@@ -758,6 +763,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "28f4d11ba45f63393954f4234ad554875c08d0d1bc2dd43f41c1477820b8bd5c"
+metafile = true
+
+[[files]]
+file = "mods/touhou-little-maid.pw.toml"
+hash = "28640145fb6a9aeb3c3e9f96be1ab0a8f00615dcd6b2be039561a7988a8f0983"
 metafile = true
 
 [[files]]

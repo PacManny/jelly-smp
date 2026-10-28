@@ -1,0 +1,8 @@
+name = "touhou little maid"
+filename = "touhoulittlemaid-1.5.3-neoforge+mc26.3-all.jar"
+side = "both"
+
+[download]
+url = "https://github.com/PacManny/jelly-smp/releases/download/1.2.0-jelly-smp-mods/touhoulittlemaid-1.5.3-neoforge+mc26.3-all.jar"
+hash-format = "sha256"
+hash = "cb8c92e88e038f869b1f6a878e854c1b1e2740c1e3513a0ce9fbe764b2e74b8c"
