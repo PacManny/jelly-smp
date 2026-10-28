@@ -1,0 +1,13 @@
+name = "Simple Config Lib"
+filename = "simple-config-lib-2.1-neoforge+26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PY2YT7QI/versions/VA1qPYs3/simple-config-lib-2.1-neoforge%2B26.3.jar"
+hash-format = "sha512"
+hash = "5bf67e7c8cce20c08c399bc65080a45b1c1b0a6997605a23775a14c2c91a37651c56492745890f32b7d4823a38199bcacd3ac08b3837ad094f1a8dc84c265f84"
+
+[update]
+[update.modrinth]
+mod-id = "PY2YT7QI"
+version = "VA1qPYs3"

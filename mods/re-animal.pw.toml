@@ -1,0 +1,13 @@
+name = "Re:Animal"
+filename = "reanimal-neoforge-0.6.1+26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "837ba07e040411eda22a60890df5dd0d9089e645"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9338272
+project-id = 1387943

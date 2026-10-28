@@ -3,6 +3,6 @@ filename = "loyal-companions-neoforge-26.3-2.0.0.jar"
 side = "both"
 
 [download]
-url = "https://github.com/PacManny/jelly-smp/releases/download/1.2.0-jelly-smp-mods/loyal-companions-neoforge-26.3-2.0.0-fixed.jar"
+url = "https://github.com/PacManny/jelly-smp/releases/download/1.2.0-jelly-smp-mods/loyal-companions-neoforge-26.3-2.0.0-petfix1-worldfix.jar"
 hash-format = "sha256"
-hash = "1f7540db4882866dc0d955ddf3c8284f90bfd8c3d5a3a56899e3e2ed1d56b5a9"
+hash = "deaac03e11de9cb561c45efc20ba1f670ea653877bc15175668ae01533317af9"

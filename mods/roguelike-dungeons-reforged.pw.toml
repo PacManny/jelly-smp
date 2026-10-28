@@ -1,0 +1,13 @@
+name = "Roguelike Dungeons Reforged"
+filename = "roguelike-dungeons-neoforge-2.1.2+neoforge-26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e0a2c0184600e4bcec25c0a9ed1106680b36226f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9312241
+project-id = 1763777
