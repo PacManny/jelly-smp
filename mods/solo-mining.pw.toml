@@ -1,0 +1,8 @@
+name = "solo mining"
+filename = "solo-mining-neoforge-26.3-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/PacManny/jelly-smp/releases/download/1.2.0-jelly-smp-mods/solo-mining-neoforge-26.3-1.3.0.jar"
+hash-format = "sha256"
+hash = "1904c53812b8188145e791faf1987603df16839de2a3863fdfc8b9681e8c013d"

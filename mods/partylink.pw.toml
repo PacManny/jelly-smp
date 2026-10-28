@@ -1,0 +1,8 @@
+name = "partylink"
+filename = "partylink-neoforge-26.3-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/PacManny/jelly-smp/releases/download/1.2.0-jelly-smp-mods/partylink-neoforge-26.3-2.0.0.jar"
+hash-format = "sha256"
+hash = "c424022aaaad3556cd6a51c76f30ce54bc5d693497611fa71af7fcba4875ec9c"

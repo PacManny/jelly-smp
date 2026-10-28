@@ -1,0 +1,13 @@
+name = "KaleidoscopeCookery Unofficial 26 Neo Ver"
+filename = "kaleidoscope_cookery_26.3_1.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9feaf504934cb43298f35aea8b8c8e8f8f7c4b58"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9056931
+project-id = 1705911

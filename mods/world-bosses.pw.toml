@@ -1,0 +1,13 @@
+name = "World Bosses"
+filename = "world-bosses-neoforge-26.3-2.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e5e7cf13f3e4e290508140619f7c3ac29a1d19af"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9258424
+project-id = 1545677
