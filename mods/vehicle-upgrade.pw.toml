@@ -1,0 +1,13 @@
+name = "Vehicle Upgrade"
+filename = "vehicleupgrade-v26.3.0-mc26.3.x+neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e71b497da804d1af2cbfd8c45450049ff1e0eccc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9009426
+project-id = 1369699

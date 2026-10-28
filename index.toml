@@ -211,6 +211,11 @@ hash = "9d61b2f0cba825790c3a6ef646f01d534de04225de2acee041eb4a7729f01ed1"
 metafile = true
 
 [[files]]
+file = "mods/disconnect-packet-fix.pw.toml"
+hash = "f4a23e4b76cfb18d46d1d3d675f9c3c8ec7836b8c83ccef76b71068267b1809d"
+metafile = true
+
+[[files]]
 file = "mods/dungeon-and-taverns.pw.toml"
 hash = "ad0950f44325571e0ffdd18a737bca6ade450a5061d04a7ea5650794fd7f52c1"
 metafile = true
@@ -457,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/loyal-companions.pw.toml"
-hash = "a96eacac375fcd8dd68eccc40452690beda615ab701d196e50dad62469fc38a5"
+hash = "9c0e7f09a89fb5e48ffb4526f37a6030134328ee40af9268aeef80c055e3f975"
 metafile = true
 
 [[files]]
@@ -606,6 +611,11 @@ hash = "a548aac2103ea2df4bdefe4cec1be2a8bb95c902d0aec1661bf3a82fe02b16d0"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-crashes-forge.pw.toml"
+hash = "3eee1365cb58ece8808de28b0f72a8bff940a7a65e9dce0b4fa50a4eafce4dac"
+metafile = true
+
+[[files]]
 file = "mods/nyctography.pw.toml"
 hash = "f76b2e2ebd28d1f8b368a3978facbdff49ebf16927417f356a0c7ae7bbd39a0c"
 metafile = true
@@ -656,6 +666,16 @@ hash = "e343edab8ea9bd9ba2d2f1b86ba24f26365f10a24eca17f194bed0f1542b808d"
 metafile = true
 
 [[files]]
+file = "mods/qraftyfied.pw.toml"
+hash = "4b06b69b2215679ff38f5a55d1415072ffefe593f7418f09ca25dc2c1bd45fce"
+metafile = true
+
+[[files]]
+file = "mods/re-animal.pw.toml"
+hash = "a82e6be7c79374ac41a66bc127bdc13e970f3539e3dcf7a561f26e05cc10e4ae"
+metafile = true
+
+[[files]]
 file = "mods/realistic-bees.pw.toml"
 hash = "1652160fafe24d1b34086316b77154e0924e62108537266c95b22ae3aeda2a94"
 metafile = true
@@ -673,6 +693,11 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "ecd9fcd9f20049256b0897c713349576a6593e62acd1115de606a995a5f247e1"
+metafile = true
+
+[[files]]
+file = "mods/roguelike-dungeons-reforged.pw.toml"
+hash = "f41f460d6e365549c32fa56a305a25fe9369f604e86d6a7466f8288d984e3ebb"
 metafile = true
 
 [[files]]
@@ -696,6 +721,11 @@ hash = "6def3ee2fcfdf40918bbb06542f5a7da964652ad52e0b323a8de24737bbba4df"
 metafile = true
 
 [[files]]
+file = "mods/sea-life.pw.toml"
+hash = "f3a3ee6675b07c8eea317433086ea5ebe2857279947edce9fc99cf6d6e676738"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "c8c078d7899f57ff5f25e5f36b2a1da6d33744abd2952eaeaaff63a01c462fca"
 metafile = true
@@ -706,8 +736,18 @@ hash = "ee9b3d6575dea5a64364f0c5bfc291b86a14787998f137d0e52b7266ad75a52f"
 metafile = true
 
 [[files]]
+file = "mods/shatterbyte-lib.pw.toml"
+hash = "8fecaec09e3bd226ff7aed03e7256371b26a0463a634272a8f1075878cabb385"
+metafile = true
+
+[[files]]
 file = "mods/shogi.pw.toml"
 hash = "25b816c52dd4c6e939b4848d5c60492c2d65e652ffc0b82950b116705a21f9a7"
+metafile = true
+
+[[files]]
+file = "mods/simple-config-lib.pw.toml"
+hash = "3fd3ec82c5b086d61b7f9847e9f0cbc831e92323f2d171e29ba18628865a4772"
 metafile = true
 
 [[files]]
@@ -793,6 +833,11 @@ metafile = true
 [[files]]
 file = "mods/universal-enchants.pw.toml"
 hash = "d31874e878b54edbf471c5a9b2967b90273f6767e2d538a0f181781befe013c9"
+metafile = true
+
+[[files]]
+file = "mods/vehicle-upgrade.pw.toml"
+hash = "1e705b30d3aa1b997fa4664cc9fb7ec2f3ef14fce09c0034e157e017401133dc"
 metafile = true
 
 [[files]]

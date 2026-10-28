@@ -1,0 +1,13 @@
+name = "ShatterLib | OctoLib"
+filename = "shatterlib-neoforge-0.7.0-beta.4+26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f3c6adef1585e1df947705e2869e5d5239e2621d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9239327
+project-id = 916747

@@ -1,0 +1,13 @@
+name = "Disconnect Packet Fix"
+filename = "disconnect-packet-fix-neoforge-2.3.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/rd9rKuJT/versions/pHJasZC8/disconnect-packet-fix-neoforge-2.3.0.jar"
+hash-format = "sha512"
+hash = "8d08c1f9bad8de4847f63ebd97654dc10fd1a4c49338d3451cd07b996444e903213d38ee49eb26ef42143c4a775201425580283b1de8463862dcdbed46473152"
+
+[update]
+[update.modrinth]
+mod-id = "rd9rKuJT"
+version = "pHJasZC8"
