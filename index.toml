@@ -36,6 +36,11 @@ hash = "d4ed5707e6a7a607edac5c536f4c814e347481fe383870d5c766472cdc062a4e"
 metafile = true
 
 [[files]]
+file = "mods/aquamirage.pw.toml"
+hash = "ed7a027dd2f02e41839aa1e52eba6f2996df5340487562234dcbb87df3b58ed8"
+metafile = true
+
+[[files]]
 file = "mods/arcane-lanterns.pw.toml"
 hash = "05c6b2fde61a516d37ad2ee1a3ca49b02f956428de57ac2735e142f61c1acbb8"
 metafile = true
@@ -107,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "08badadbbabce3566beb090b40c6d412f79fa6a5f8c286fb5e83a79fced7ec04"
+hash = "3f3e528701cf893977b383ab7a2c4a9d9bb5c244be0c85b0af53b70a5f47f8b0"
 metafile = true
 
 [[files]]
@@ -123,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/common-capabilities.pw.toml"
 hash = "26c1992b19c85d9be784b8717c349ebd45424a3295930006e147f5ea0b73dfed"
+metafile = true
+
+[[files]]
+file = "mods/configurable.pw.toml"
+hash = "0a04b8eef49b2b0253fab10ed0ab9377356641c37c131902b21d8e3a70e1c286"
 metafile = true
 
 [[files]]
@@ -158,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "629dc43ff5ff22f7cf085cd2258b9b159c88bc6dbbd4674039db118cca816d5a"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "bbc7f7e57ac999d84fe7d379ca1c20fcf67c1247b909f473dadffd6d903f373c"
 metafile = true
 
 [[files]]
@@ -296,6 +311,11 @@ hash = "d7057c1ef53de41a7574d951c0854437a714bc3cba8eb04504ffbb4c4211924d"
 metafile = true
 
 [[files]]
+file = "mods/extreme-sound-muffler.pw.toml"
+hash = "5766e112a1a96be996c53f31362bdcf20d85ce4f5660f8485f74bb353ace7797"
+metafile = true
+
+[[files]]
 file = "mods/falling-tree.pw.toml"
 hash = "54df2bf8a57a58a7e127574e77740f04f112bc37393070ef282a4cd3a013fdc8"
 metafile = true
@@ -346,6 +366,16 @@ hash = "139dd38670ed892a1e234368b1ada6b995878f9aee807d0c3228bdd7d017a931"
 metafile = true
 
 [[files]]
+file = "mods/hopo-better-mineshaft.pw.toml"
+hash = "c2ed49fd0b48016d627280af94f58f204d4281ca477c0a787ca6a42eb6342f13"
+metafile = true
+
+[[files]]
+file = "mods/hopo-better-underwater-ruins.pw.toml"
+hash = "1e967f3426f882105a320cf4a68adb24219499d7ff1337e314735c56449aac02"
+metafile = true
+
+[[files]]
 file = "mods/illager-warship.pw.toml"
 hash = "d583aa36fb4dbc54dbef2d7b0fbd3500ea392bcef48c71395775743f9ea7466d"
 metafile = true
@@ -383,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/inzhefop-core.pw.toml"
 hash = "325cb650dd2f695a031869cfdb14c26c41ecc102beedd2eab5b26865a22acb90"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.pw.toml"
+hash = "fbcc28979b300ff97290ae096cde6728e232aca12a0c0501074383248adc2aae"
 metafile = true
 
 [[files]]
@@ -457,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "bb78aa2c5a4e6df9c4ad20d8a01a9298e1c39915d5869dbd444ec291e3441041"
+hash = "aadbfaf6f8039a7bf5ccfed28fbbd732335c353bff4f142db7fb5a3f2fedff88"
 metafile = true
 
 [[files]]
@@ -606,13 +641,28 @@ hash = "537da695bf6cb28af7805fe49dfdc842c4ec1a347e9547e825859fbaaa70524d"
 metafile = true
 
 [[files]]
+file = "mods/natural-waters.pw.toml"
+hash = "c8f8b5fffb555ca989b892d98e16239ffe6935fba48d13a994c7d0bb50939d52"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "9c82a393703ce795fd4cccce024a31b90ad66c2cb7416b17e1dc1f607934c784"
 metafile = true
 
 [[files]]
+file = "mods/neruina.pw.toml"
+hash = "75c9b401b5110b82f012c57586e78f2061108963d857643c018fb2b4cb2323e9"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "a548aac2103ea2df4bdefe4cec1be2a8bb95c902d0aec1661bf3a82fe02b16d0"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "1f2aea233bd4ee0316c2f5bc76f08e7eb12a51cd065b1dcd023c0c1ac9303e74"
 metafile = true
 
 [[files]]
@@ -631,6 +681,11 @@ hash = "ed7aaaca53040a6b210f9275d0c9fbfd3caed154d83894dfbfcb4795d928db66"
 metafile = true
 
 [[files]]
+file = "mods/omni-wheel.pw.toml"
+hash = "50d275fa84064558c8e05334535704e5bfa3f24b481aa24be75874563c8dbc81"
+metafile = true
+
+[[files]]
 file = "mods/openblocks-elevator.pw.toml"
 hash = "d5667ed62856bbf6edbcb460000fa34a7b3ee31ff4e90568481d4c34dab47655"
 metafile = true
@@ -638,6 +693,11 @@ metafile = true
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "535f9b0bc17109c2cbd4b9c4a337ce6afca945b417d2dc4e686c4b78585f3322"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "6d0ea83685236ef3537b5e4b867a0ec1add14b7d4df39f4076e7ae719afd2b08"
 metafile = true
 
 [[files]]
@@ -756,6 +816,11 @@ hash = "3fd3ec82c5b086d61b7f9847e9f0cbc831e92323f2d171e29ba18628865a4772"
 metafile = true
 
 [[files]]
+file = "mods/sodium.pw.toml"
+hash = "dcf97449ebfac1d7d07601bbef5ad99e1942ec1286d3cb5f5487c1c25798438a"
+metafile = true
+
+[[files]]
 file = "mods/solo-mining.pw.toml"
 hash = "7071f8949fe17795f2cd151bc86585a3bd0a676953e4db01790e233fe2f76584"
 metafile = true
@@ -828,6 +893,11 @@ metafile = true
 [[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "9a800c14e21e71e11c9de6eef34f283986cfecfefee5e35eb443d1936010bab8"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "05d1abc278fd95e2345810f7631e30ab643e16660eee8337a994eb011aa7d27d"
 metafile = true
 
 [[files]]
