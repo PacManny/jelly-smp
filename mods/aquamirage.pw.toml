@@ -1,0 +1,13 @@
+name = "AquaMirage -- Water shader"
+filename = "aquamirage-neoforge-26.3-0.1.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "ebe7198f31af895b085650da6e81330afd823d19"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9037783
+project-id = 1722454

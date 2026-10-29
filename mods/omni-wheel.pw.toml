@@ -1,0 +1,13 @@
+name = "Omni Wheel"
+filename = "omniwheel-2.0.0-neoforge-mc26.3.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "309899c41b7cc7d5b8b75cb4c6f5d9a566b4623e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9345533
+project-id = 1645840

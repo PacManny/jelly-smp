@@ -1,0 +1,13 @@
+name = "Packet Fixer"
+filename = "PacketFixer-neoforge-3.3.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eb595fc4e642bed3bbc1e2ea919b8dfc76e25524"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8931190
+project-id = 689467

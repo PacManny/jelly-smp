@@ -1,0 +1,13 @@
+name = "Not Enough Animations"
+filename = "notenoughanimations-neoforge-1.12.6-mc26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/YEeJ72Hz/notenoughanimations-neoforge-1.12.6-mc26.3.jar"
+hash-format = "sha512"
+hash = "7395b23f1fa4b5f2c907fd4d84e7fbf0342e23f99e0eece6ef46707529eba9120051c9f0fc8354e9f5c1d161ddadeff943c8954a6c479c27de07ef9517d52ed6"
+
+[update]
+[update.modrinth]
+mod-id = "MPCX6s5C"
+version = "YEeJ72Hz"
