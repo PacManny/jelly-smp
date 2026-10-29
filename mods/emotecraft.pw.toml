@@ -1,0 +1,13 @@
+name = "Emotecraft (Fabric)"
+filename = "emotecraft-for-MC26.3-3.5.0-a.build.171.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92815a8e4c85d7d81bba9ae50458a3f1d962e242"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9025542
+project-id = 397809

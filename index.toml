@@ -46,6 +46,11 @@ hash = "c90006c4fc13d0f7bc549a2e498cfcd802a121176495f7e055a35c9879ffc27e"
 metafile = true
 
 [[files]]
+file = "mods/armor-stands.pw.toml"
+hash = "cc7cc72f61cd8d4ed109d46d8913d14794e73117c05b6290c216dccb1689d75a"
+metafile = true
+
+[[files]]
 file = "mods/ati-structures.pw.toml"
 hash = "67ed4a987fc90bcd0038cf4a58471e99732a67a21f0aa0035e1cecedf695f8a3"
 metafile = true
@@ -248,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/edivadlib.pw.toml"
 hash = "36308a73ad6faf735fe8c1196103599dc9f14e30b761a844864077e2053b86dd"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "44014595f24d8dad5d2a61a7f04ce3b28663312a819a2da98e62ecca74b60570"
 metafile = true
 
 [[files]]
@@ -656,6 +666,11 @@ hash = "4db2e323a96a858c5b19d5d25c319a5c756bf84cba82959b77cd79d8512ae8d4"
 metafile = true
 
 [[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "5f500b882196aa8eae0d0dff4299b2fff908a8e61c7b6aab0d840a2824b3bc5f"
+metafile = true
+
+[[files]]
 file = "mods/polymorph-plus.pw.toml"
 hash = "b76f5a0a786b23324acd05c3a56160b614e28824759febe972a55b8deec7ab45"
 metafile = true
@@ -783,6 +798,11 @@ metafile = true
 [[files]]
 file = "mods/spice-of-life-carrot-edition.pw.toml"
 hash = "305218871a43a97074c4de76410093c2999215bd6519202fdca988a75aafd816"
+metafile = true
+
+[[files]]
+file = "mods/starcatcher.pw.toml"
+hash = "921c77bc28a7d29054455d02d47094eea1b7680aec11cdeb3cd991fbd2b379b5"
 metafile = true
 
 [[files]]

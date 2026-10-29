@@ -1,0 +1,8 @@
+name = "armor stands"
+filename = "coolarmorstands-mc26.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/PacManny/jelly-smp/releases/download/1.2.0-jelly-smp-mods/coolarmorstands-mc26.3.jar"
+hash-format = "sha256"
+hash = "eae4dd9610707cb71cb8cf66fea95de66d8dad2591f6e93131bb83fbea2c486d"
