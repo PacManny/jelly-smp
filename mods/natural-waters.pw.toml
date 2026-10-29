@@ -1,0 +1,13 @@
+name = "Natural Waters"
+filename = "naturalwaters-v26.3.0-mc26.3.x+neoforge.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "7cd6db5efac50627ca0fe0319fb115282deba166"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8989178
+project-id = 1367853
