@@ -181,6 +181,11 @@ hash = "bbc7f7e57ac999d84fe7d379ca1c20fcf67c1247b909f473dadffd6d903f373c"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "72f295873544b0e45dda1c2be705fbdcdd8b70062c8f5f291cd97b1ec058b0ed"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "2383e7bae112c50a8782dd2e1b13434ed3631b6f8ea1dc2f6b813116b2d09734"
 metafile = true
@@ -296,6 +301,16 @@ hash = "ccf32f0e7151a6c06f697398a54c12adf40decdd8a52849f698050160f52833b"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "e2b0ec976aceaec4861e0dfc44af6305d4a8f3f10fa8771ceb46972ba503fea2"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "695d99c05e840c90734a473b9a71305267b34876cd68c5491246013340a5b568"
+metafile = true
+
+[[files]]
 file = "mods/epic-structures-dungeons.pw.toml"
 hash = "5444ae68dff06777dcb2ba7ed2b930c758e4569d15c09bb67e66403a2fa32657"
 metafile = true
@@ -393,6 +408,11 @@ metafile = true
 [[files]]
 file = "mods/im-fast.pw.toml"
 hash = "3995de40644fd1bb5fc676f68924ac002e5f2db3a94d8e42f6d88fae8a908049"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "bdb355067c96a55915cf0925fd4220b2cbfd7d199b6275f0adf48cce48bf5483"
 metafile = true
 
 [[files]]
@@ -728,6 +748,11 @@ metafile = true
 [[files]]
 file = "mods/player-animation-library.pw.toml"
 hash = "5f500b882196aa8eae0d0dff4299b2fff908a8e61c7b6aab0d840a2824b3bc5f"
+metafile = true
+
+[[files]]
+file = "mods/playerrevive.pw.toml"
+hash = "f840cf034424a3a73ad38e129a4d303e55fc37b3f43ea5a5caa210c0b7bcba78"
 metafile = true
 
 [[files]]
