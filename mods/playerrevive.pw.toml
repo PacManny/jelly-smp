@@ -1,0 +1,13 @@
+name = "PlayerRevive"
+filename = "PlayerRevive_NEOFORGE_v2.1.3_mc26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1f67f3be7887e54d0039632dcb94d5d8e3e9cf45"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8975011
+project-id = 266890
