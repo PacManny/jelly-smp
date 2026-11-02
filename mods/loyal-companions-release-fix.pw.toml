@@ -1,0 +1,8 @@
+name = "loyal-companions-release-fix"
+filename = "loyal-companions-release-fix-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/PacManny/jelly-smp/releases/download/1.2.0-jelly-smp-mods/loyal-companions-release-fix-1.0.0.jar"
+hash-format = "sha256"
+hash = "287a4345c0029a87b49820dad8de9d28525b90ad8ff41e214904e5479d95ede1"
