@@ -526,8 +526,18 @@ hash = "aadbfaf6f8039a7bf5ccfed28fbbd732335c353bff4f142db7fb5a3f2fedff88"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "419e6b776e10790236321f646ad134eb17ada628755443d354ee64c95c593460"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "483455cc5793ac74a4b48a7263dc0302d072cb099017ef4dbd79636b95f17a8c"
+metafile = true
+
+[[files]]
+file = "mods/loyal-companions-release-fix.pw.toml"
+hash = "959900db2f9028fa28a4f84e12c29391461f15b62a8ab6c2945acfbbe345c0c7"
 metafile = true
 
 [[files]]
@@ -708,6 +718,11 @@ metafile = true
 [[files]]
 file = "mods/occultism.pw.toml"
 hash = "ed7aaaca53040a6b210f9275d0c9fbfd3caed154d83894dfbfcb4795d928db66"
+metafile = true
+
+[[files]]
+file = "mods/olafsrelativeblocks.pw.toml"
+hash = "44aac7ca99106f21ca49753752ff146a5d27d1a7c1939ab4270b5e296973b9b3"
 metafile = true
 
 [[files]]
@@ -913,6 +928,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "f4f2e5b98348249814a10eb5d302fdbe18c35d7f33e3b225f1cdad688da22af4"
+metafile = true
+
+[[files]]
+file = "mods/thaumaturge.pw.toml"
+hash = "b0b6920b7e44b7e99a18898e4208c6e9b8f74fff247e24ca8c58a609a2247180"
 metafile = true
 
 [[files]]
