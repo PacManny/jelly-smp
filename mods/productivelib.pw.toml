@@ -1,0 +1,8 @@
+name = "ProductiveLib"
+filename = "productivelib-26.3-0.4.9-port.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/PacManny/jelly-smp/releases/download/1.2.0-jelly-smp-mods/productivelib-26.3-0.4.9-port.2.jar"
+hash-format = "sha256"
+hash = "e201abf38b2fa84e18a0d90393b1b3773e75aea6108ee5283c634a0521f83c9e"

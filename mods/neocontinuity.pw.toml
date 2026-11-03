@@ -1,0 +1,13 @@
+name = "NeoContinuity"
+filename = "continuity-3.0.1-0.0.9+26.3.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "7654c1e34a344dff33b738c3a60941a0b5fa1ddb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8896548
+project-id = 1377279

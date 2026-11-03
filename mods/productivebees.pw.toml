@@ -1,0 +1,8 @@
+name = "ProductiveBees"
+filename = "productivebees-26.3-15.2.0-port.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/PacManny/jelly-smp/releases/download/1.2.0-jelly-smp-mods/productivebees-26.3-15.2.0-port.4.jar"
+hash-format = "sha256"
+hash = "b8182b851308bda596b90e5247bbdefb28a891b0c2ec4e5a4a32c6712ee40332"

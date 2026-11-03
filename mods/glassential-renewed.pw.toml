@@ -1,0 +1,8 @@
+name = "Glassential Renewed 5.2.0 (Patched)"
+filename = "Glassential-renewed-26.3-5.2.0-neoforge-localconfig-patched.jar"
+side = "both"
+
+[download]
+url = "https://github.com/PacManny/jelly-smp/releases/download/1.2.0-jelly-smp-mods/Glassential-renewed-26.3-5.2.0-neoforge-localconfig-patched.jar"
+hash-format = "sha256"
+hash = "3bbd004e261a5d99f84289f5f74e276d4d27bc79a6cce7ba521ea82a37bcf220"

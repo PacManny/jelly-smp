@@ -1,0 +1,8 @@
+name = "glodium"
+filename = "glodium-26.3-1.2-port.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/PacManny/jelly-smp/releases/download/1.2.0-jelly-smp-mods/glodium-26.3-1.2-port.1.jar"
+hash-format = "sha256"
+hash = "d8559667033784cede7ccb7fb4c88385ee57084cadf4ad5e50a9de94bfb668dd"

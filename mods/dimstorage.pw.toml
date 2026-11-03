@@ -1,13 +1,13 @@
 name = "DimStorage"
-filename = "DimStorage-26.3-10.1.1.jar"
+filename = "DimStorage-26.3-10.1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "82d1259e0d04bfb73cc50a0c4231cff32585891a"
+hash = "bf3fc76d4fc34ebd9b8dfca0d259cde0d8315512"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9019887
+file-id = 9354876
 project-id = 353882

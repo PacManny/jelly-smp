@@ -1,13 +1,13 @@
 name = "Trash Cans"
-filename = "trashcans-1.1.2-neoforge-mc26.3.jar"
+filename = "trashcans-1.1.2a-neoforge-mc26.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "cf93a5c5ef0328d08d578cb5183150b93e2cd32d"
+hash = "d8fe05009407d6eacef49608f8f9539568162141"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9289374
+file-id = 9389549
 project-id = 394535

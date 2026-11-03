@@ -1,13 +1,13 @@
 name = "Energized Power"
-filename = "energizedpower-3.0.5+26.3.x-neoforge.jar"
+filename = "energizedpower-3.0.6-26.3.x-neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "769d5ab012f53ce1915ba3f9a121a360ffc7d660"
+hash = "e1740d637bb230394f701ce0031213cc73669a78"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9332787
+file-id = 9399838
 project-id = 782147
