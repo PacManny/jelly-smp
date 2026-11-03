@@ -1,0 +1,8 @@
+name = "Balloon on a Stick"
+filename = "balloon-on-a-stick-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/PacManny/jelly-smp/releases/download/1.2.0-jelly-smp-mods/balloon-on-a-stick-1.0.3.jar"
+hash-format = "sha256"
+hash = "8774455f261b40c0c1a0e0a15b48f94ded7123a520eb7f58bbddcaf663eae7ea"

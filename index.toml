@@ -71,6 +71,11 @@ hash = "239ddc6269ffc0d5afff9ec65d1217c636e6bedba29ee8e25aafdcbdbb6eba98"
 metafile = true
 
 [[files]]
+file = "mods/balloon-on-a-stick.pw.toml"
+hash = "7c89679515fb3bd6d751f7a4b52e4b868c090984c0766cad1be7107cdaebdd48"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "106892210b11b56b1609f130f82f23a9164514e37c329f18ae947a66d2c4c716"
 metafile = true
@@ -621,6 +626,21 @@ hash = "028c168387c61c2f13c1a3dac97daf103b4be7b54aea4cde666bdb44e775edcf"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "93a4cebe42fee983bf6a9cfbece0b05104e3a8a70782444b8fc6bbfd7c72d878"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "41e7ce223b77a75530c09b02d01271e6d5e5a02549cc07176870e5dc20ed620b"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "c7cb998d27d1859308e4626b8a5af9267d949a57d2e54459a705ac6e5545cef6"
+metafile = true
+
+[[files]]
 file = "mods/mezzconfig.pw.toml"
 hash = "01cad6bc6b064a25877c6d76877a23095b2456c03d5397d7a568c2402d5dc05f"
 metafile = true
@@ -721,6 +741,11 @@ hash = "a548aac2103ea2df4bdefe4cec1be2a8bb95c902d0aec1661bf3a82fe02b16d0"
 metafile = true
 
 [[files]]
+file = "mods/nochatter.pw.toml"
+hash = "31d21fa9cc12af2bab9a9ab664b922034faf36fbe50372899813d9e67c92e159"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "6e771e1263258dac47dabe1a48d16a3a77d5c30994e598b191a766e41256144d"
 metafile = true
@@ -807,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "mods/productivefarming.pw.toml"
-hash = "59a9fff0030522b2c62807a7b511b430ce05b2d21c1773a63c542c8ea11df566"
+hash = "b31e3ab19a7937afcb2a0b31fa35b2772598a77202fa903a234fa33e9038e079"
 metafile = true
 
 [[files]]
@@ -962,7 +987,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumaturge.pw.toml"
-hash = "b0b6920b7e44b7e99a18898e4208c6e9b8f74fff247e24ca8c58a609a2247180"
+hash = "7fd4686d8e455f866392daf1f280387641fc268b3fc4cd15057279952efdc837"
 metafile = true
 
 [[files]]

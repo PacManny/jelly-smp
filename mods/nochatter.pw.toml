@@ -1,0 +1,13 @@
+name = "No Chatter"
+filename = "nochatter-neoforge-26.3-1.0.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "1144a6a4d341cad1cfc05fe23147ad6555e94dcc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9120371
+project-id = 1555813
