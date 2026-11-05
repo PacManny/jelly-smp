@@ -1,0 +1,8 @@
+name = "Escape Rope"
+filename = "escape-rope-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/PacManny/jelly-smp/releases/download/1.2.0-jelly-smp-mods/escape-rope-1.0.0.jar"
+hash-format = "sha256"
+hash = "5912c70b8fd22218e5c506dfe118e8d0b71fd8566e22db571ccfd4b762c8a71b"

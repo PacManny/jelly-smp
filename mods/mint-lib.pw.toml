@@ -1,0 +1,13 @@
+name = "MINT Lib"
+filename = "mint_lib-0.5.2-26.3-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b1fe0d3bf7adfc2edf47483e3c422cc3b6af42d3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9361432
+project-id = 1218329

@@ -1,8 +1,8 @@
 name = "Mekanism"
-filename = "Mekanism-26.3-10.8.0-port.26.3.3.jar"
+filename = "Mekanism-26.3-10.8.0-port.26.3.9.jar"
 side = "both"
 
 [download]
-url = "https://github.com/PacManny/jelly-smp/releases/download/1.2.0-jelly-smp-mods/Mekanism-26.3-10.8.0-port.26.3.3.jar"
+url = "https://github.com/PacManny/jelly-smp/releases/download/1.2.0-jelly-smp-mods/Mekanism-26.3-10.8.0-port.26.3.9.jar"
 hash-format = "sha256"
-hash = "4aeb23ac505bb59bac52be3d8de159dfefedf6b70fb7a79bd7160afc31812ec2"
+hash = "4db7d2933d2ebefd91f118d06d74978c7416d95cd3ee3c28835f7192dcfe172d"

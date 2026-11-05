@@ -1,0 +1,13 @@
+name = "Garden Trails"
+filename = "gardentrails-neoforge-26.3-0.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oEUTaykr/versions/I3NLfe33/gardentrails-neoforge-26.3-0.5.0.jar"
+hash-format = "sha512"
+hash = "881b6f0fea52d0e19bf4296ab56163de8348c14f1c96462c0d9f136e6187258ab45f84b79603bc762e3a070325a7de9a975fa1c2e701469f675aaf35d338761d"
+
+[update]
+[update.modrinth]
+mod-id = "oEUTaykr"
+version = "I3NLfe33"

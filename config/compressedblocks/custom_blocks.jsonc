@@ -1,0 +1,128 @@
+[
+  {
+    "id": "mekanism_bronze_block",
+    "kind": "BLOCK",
+    "hardness_resistance_multiplier": 1.5,
+    "max_compression_level": 10,
+    "has_smaller_compression": false,
+    "enabled_by_default": true,
+    "minecraft_version": "26.3"
+  },
+  {
+    "id": "mekanism_charcoal_block",
+    "kind": "BLOCK",
+    "hardness_resistance_multiplier": 1.0,
+    "max_compression_level": 10,
+    "has_smaller_compression": false,
+    "enabled_by_default": true,
+    "minecraft_version": "26.3"
+  },
+  {
+    "id": "mekanism_fluorite_block",
+    "kind": "BLOCK",
+    "hardness_resistance_multiplier": 1.0,
+    "max_compression_level": 10,
+    "has_smaller_compression": false,
+    "enabled_by_default": true,
+    "minecraft_version": "26.3"
+  },
+  {
+    "id": "mekanism_lead_block",
+    "kind": "BLOCK",
+    "hardness_resistance_multiplier": 1.5,
+    "max_compression_level": 10,
+    "has_smaller_compression": false,
+    "enabled_by_default": true,
+    "minecraft_version": "26.3"
+  },
+  {
+    "id": "mekanism_osmium_block",
+    "kind": "BLOCK",
+    "hardness_resistance_multiplier": 1.5,
+    "max_compression_level": 10,
+    "has_smaller_compression": false,
+    "enabled_by_default": true,
+    "minecraft_version": "26.3"
+  },
+  {
+    "id": "mekanism_raw_lead_block",
+    "kind": "BLOCK",
+    "hardness_resistance_multiplier": 1.25,
+    "max_compression_level": 10,
+    "has_smaller_compression": false,
+    "enabled_by_default": true,
+    "minecraft_version": "26.3"
+  },
+  {
+    "id": "mekanism_raw_osmium_block",
+    "kind": "BLOCK",
+    "hardness_resistance_multiplier": 1.25,
+    "max_compression_level": 10,
+    "has_smaller_compression": false,
+    "enabled_by_default": true,
+    "minecraft_version": "26.3"
+  },
+  {
+    "id": "mekanism_raw_tin_block",
+    "kind": "BLOCK",
+    "hardness_resistance_multiplier": 1.25,
+    "max_compression_level": 10,
+    "has_smaller_compression": false,
+    "enabled_by_default": true,
+    "minecraft_version": "26.3"
+  },
+  {
+    "id": "mekanism_raw_uranium_block",
+    "kind": "BLOCK",
+    "hardness_resistance_multiplier": 1.25,
+    "max_compression_level": 10,
+    "has_smaller_compression": false,
+    "enabled_by_default": true,
+    "minecraft_version": "26.3"
+  },
+  {
+    "id": "mekanism_refined_glowstone_block",
+    "kind": "BLOCK",
+    "hardness_resistance_multiplier": 1.5,
+    "max_compression_level": 10,
+    "has_smaller_compression": false,
+    "enabled_by_default": true,
+    "minecraft_version": "26.3"
+  },
+  {
+    "id": "mekanism_refined_obsidian_block",
+    "kind": "BLOCK",
+    "hardness_resistance_multiplier": 1.5,
+    "max_compression_level": 10,
+    "has_smaller_compression": false,
+    "enabled_by_default": true,
+    "minecraft_version": "26.3"
+  },
+  {
+    "id": "mekanism_steel_block",
+    "kind": "BLOCK",
+    "hardness_resistance_multiplier": 1.5,
+    "max_compression_level": 10,
+    "has_smaller_compression": false,
+    "enabled_by_default": true,
+    "minecraft_version": "26.3"
+  },
+  {
+    "id": "mekanism_tin_block",
+    "kind": "BLOCK",
+    "hardness_resistance_multiplier": 1.5,
+    "max_compression_level": 10,
+    "has_smaller_compression": false,
+    "enabled_by_default": true,
+    "minecraft_version": "26.3"
+  },
+  {
+    "id": "mekanism_uranium_block",
+    "kind": "BLOCK",
+    "hardness_resistance_multiplier": 1.5,
+    "max_compression_level": 10,
+    "has_smaller_compression": false,
+    "enabled_by_default": true,
+    "minecraft_version": "26.3"
+  }
+]

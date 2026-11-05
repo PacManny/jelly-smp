@@ -1,0 +1,13 @@
+name = "Better Fishtanks"
+filename = "betterfishtanks-1.4.2-26.3-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6df0e7fce031e42d2c4cf660fd40b36f68065640"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9371911
+project-id = 1196541

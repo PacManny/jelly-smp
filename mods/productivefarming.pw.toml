@@ -1,8 +1,8 @@
 name = "ProductiveFarming"
-filename = "productivefarming-26.3-0.13.0-port.3.jar"
+filename = "productivefarming-26.3-0.13.0-port.4.jar"
 side = "both"
 
 [download]
-url = "https://github.com/PacManny/jelly-smp/releases/download/1.2.0-jelly-smp-mods/productivefarming-26.3-0.13.0-port.3.jar"
+url = "https://github.com/PacManny/jelly-smp/releases/download/1.2.0-jelly-smp-mods/productivefarming-26.3-0.13.0-port.4.jar"
 hash-format = "sha256"
-hash = "270b44ea2ef4274d32fd404f3ae57dadea188e805101886294a4153ab8cfbd40"
+hash = "99976db790ac1ff7b9648f34be354326e65bf77b48a83ea68e49d59c0f05ef06"

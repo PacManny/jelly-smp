@@ -1,0 +1,8 @@
+name = "Nekoma's Fixed"
+filename = "nekomasfixed-0.5.5-26.3-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://github.com/PacManny/jelly-smp/releases/download/1.2.0-jelly-smp-mods/nekomasfixed-0.5.5-26.3-neoforge.jar"
+hash-format = "sha256"
+hash = "bf7ebb404b7b9f22f02de7b00061b8dfc2022ca050aaedab968c823ba0abfb25"

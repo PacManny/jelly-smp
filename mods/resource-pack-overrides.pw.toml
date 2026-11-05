@@ -1,0 +1,13 @@
+name = "Resource Pack Overrides"
+filename = "resourcepackoverrides-v26.3.0-mc26.3.x+neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YsFycamt/versions/ASmjx5da/resourcepackoverrides-v26.3.0-mc26.3.x%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "126e67b7cb097b0404be1724af44b9d09047343f583766a53b90cd02e48977aa1056dfef17ee42bd163e763c911e9eacae4d080ee228f233d0e6dd9e9026b611"
+
+[update]
+[update.modrinth]
+mod-id = "YsFycamt"
+version = "ASmjx5da"

@@ -1,0 +1,13 @@
+name = "Maps3D"
+filename = "maps3d_1.2.4-26.3-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a5fa3ada45c2381f12dc8f315bf3f9d51542800e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9394473
+project-id = 1682523

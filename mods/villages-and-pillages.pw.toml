@@ -1,0 +1,13 @@
+name = "Villages&Pillages"
+filename = "villagesandpillages-neoforge-2.0.0+mc26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c7de3979ea1145a6f030780f46dff4918473a8c4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9028276
+project-id = 915531

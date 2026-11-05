@@ -1,0 +1,13 @@
+name = "Dark Paintings"
+filename = "DarkPaintings-neoforge-MC26.3-26.3.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "15c9f13e2fa48507f646c9f0b133940516f6350c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8969131
+project-id = 377281

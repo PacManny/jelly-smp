@@ -1,0 +1,13 @@
+name = "Stacked Blocks"
+filename = "stackedblocks-26.09.15-26.3-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "76fb44022e488d8c6e50f983fe630fd712cde432"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8891536
+project-id = 1144737

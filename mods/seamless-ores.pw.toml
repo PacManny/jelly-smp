@@ -1,0 +1,13 @@
+name = "Seamless Ores"
+filename = "seamlessores-neoforge-5.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "573f10d9dc868ffff5bc04a072aea9c23558c440"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9225336
+project-id = 1640810

@@ -1,0 +1,92 @@
+{
+  "enabled": true,
+  "blockAllPlayerChat": false,
+  "proximityPlayerChat": false,
+  "proximityChatDistance": 50.0,
+  "hideChatWhileSleeping": false,
+  "logReceivedMessages": false,
+  "logSuppressedMessages": true,
+  "rules": [
+    {
+      "label": "example_contains",
+      "enabled": false,
+      "caseSensitive": false,
+      "contains": "Press H to open the guide",
+      "startsWith": "",
+      "containsAll": []
+    },
+    {
+      "label": "example_prefix",
+      "enabled": false,
+      "caseSensitive": false,
+      "contains": "",
+      "startsWith": "[ExampleMod]",
+      "containsAll": []
+    },
+    {
+      "label": "example_rough_phrase",
+      "enabled": false,
+      "caseSensitive": false,
+      "contains": "",
+      "startsWith": "",
+      "containsAll": [
+        "You have unlocked",
+        "chapter"
+      ]
+    },
+    {
+      "label": "jelly_securitycraft_welcome",
+      "enabled": true,
+      "caseSensitive": false,
+      "contains": "",
+      "startsWith": "[SecurityCraft] Thanks for using SecurityCraft",
+      "containsAll": []
+    },
+    {
+      "label": "jelly_worldbosses_version",
+      "enabled": true,
+      "caseSensitive": false,
+      "contains": "",
+      "startsWith": "World Bosses server version:",
+      "containsAll": []
+    },
+    {
+      "label": "jelly_mekanism_alpha_notice",
+      "enabled": true,
+      "caseSensitive": false,
+      "contains": "",
+      "startsWith": "",
+      "containsAll": [
+        "[Mekanism]",
+        "Mekanism is currently in alpha"
+      ]
+    },
+    {
+      "label": "jelly_solo_mining_update",
+      "enabled": true,
+      "caseSensitive": false,
+      "contains": "",
+      "startsWith": "",
+      "containsAll": [
+        "[Solo Mining]",
+        "A new update is available:"
+      ]
+    },
+    {
+      "label": "jelly_solo_mining_current_version",
+      "enabled": true,
+      "caseSensitive": false,
+      "contains": "",
+      "startsWith": "Current: 1.3.0 | Minecraft:",
+      "containsAll": []
+    },
+    {
+      "label": "jelly_update_project_link",
+      "enabled": true,
+      "caseSensitive": false,
+      "contains": "",
+      "startsWith": "Open project page",
+      "containsAll": []
+    }
+  ]
+}
