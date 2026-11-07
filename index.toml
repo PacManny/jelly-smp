@@ -834,7 +834,7 @@ metafile = true
 
 [[files]]
 file = "mods/nekoma-s-fixed.pw.toml"
-hash = "175c74056bf2b70b7225985284306176728ca84cc70d7995438f6e912d998def"
+hash = "1cc2b5fc2819b9b9b1198acc6112c8f82840add6f492c46862c09fef6b074f54"
 metafile = true
 
 [[files]]
@@ -1124,7 +1124,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumaturge.pw.toml"
-hash = "ba5ad8c63aa82330f334db6024bd690f657f5b1c289162f43f420a0d034fe700"
+hash = "d9e3757b5168739835dbe03dd668be48d9dc1cbfaf601cc8777fc8e5bed2e576"
 metafile = true
 
 [[files]]

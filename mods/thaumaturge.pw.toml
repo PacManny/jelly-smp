@@ -1,8 +1,8 @@
 name = "thaumaturge"
-filename = "thaumaturge-26.3-NeoForge-1.0.3-port.26.3-rc.8.jar"
+filename = "thaumaturge-26.3-NeoForge-1.0.3-port.26.3-rc.9.jar"
 side = "both"
 
 [download]
-url = "https://github.com/PacManny/jelly-smp/releases/download/1.2.0-jelly-smp-mods/thaumaturge-26.3-NeoForge-1.0.3-port.26.3-rc.8.jar"
+url = "https://downloads.sinixtra.us/mods/thaumaturge-26.3-NeoForge-1.0.3-port.26.3-rc.9.jar"
 hash-format = "sha256"
-hash = "0ee0561e437856be46f60128c83604253698b2117c3824218564fc4b81d8a2fa"
+hash = "8db270081de6fc3004f3eea49ec7736cdd6910afd21aeff48a3fd1ac4466a9eb"
