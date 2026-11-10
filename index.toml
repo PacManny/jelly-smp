@@ -10,7 +10,7 @@ hash = "868040a0336b75a76eb7d6c01ff550ca1cf30243e12d28af2cda337da0d027a9"
 
 [[files]]
 file = "config/global_packs.toml"
-hash = "c17a3424e25891072865a7553ff572f5e9f486ef22ad5d4a6ac219197ad4433d"
+hash = "9e5eddb34adcfc916f8322c57d3521c422fda073f95583640e0edbb1163b2403"
 
 [[files]]
 file = "config/jeresources-local.toml"
@@ -50,7 +50,7 @@ hash = "70a6d72b0086142efcc809476e319c9fd90668b39c6492276d2d6635988ebde5"
 
 [[files]]
 file = "datapacks/structure-loot-bonus-mc26.3.zip"
-hash = "a57e3271cc61b20f3961eaa0284fdd5b80093ed0d3dd383f65bab65faf09a68a"
+hash = "79283012d14651cffc36725672c380829c31548e9496955f7d0ee2886be055ae"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

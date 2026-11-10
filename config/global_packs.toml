@@ -8,8 +8,6 @@ enable_builtin = []
 
 [datapacks]
 required = [
-    "datapacks/no-natural-tainted-lands-mc26.3.zip",
-    "datapacks/structure-loot-bonus-mc26.3.zip",
     "datapacks/",
     "resourcepacks/",
     "global_packs/required_data/",
