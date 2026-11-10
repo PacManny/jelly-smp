@@ -1,8 +1,8 @@
 name = "nekoma-s-fixed"
-filename = "nekomasfixed-0.5.5-26.3-neoforge.jar"
+filename = "nekomasfixed-0.5.6-26.3-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://downloads.sinixtra.us/mods/nekomasfixed-0.5.5-26.3-neoforge.jar"
+url = "https://downloads.sinixtra.us/mods/nekomasfixed-0.5.6-26.3-neoforge.jar"
 hash-format = "sha256"
-hash = "e582cc2386487bebb947f61c5cda51fd2e6935f3566efcc4388a4f073ce6e18e"
+hash = "e5b023767f3a7e2532bf054766bbc61bceed695e35b86cb8c690f179d02796f3"

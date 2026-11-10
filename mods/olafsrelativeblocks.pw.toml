@@ -1,8 +1,8 @@
 name = "olafsrelativeblocks"
-filename = "olafsrelativeblocks-2.0.1-neoforge+mc26.3.jar"
+filename = "olafsrelativeblocks-2.0.2-neoforge+mc26.3.jar"
 side = "both"
 
 [download]
-url = "https://github.com/PacManny/jelly-smp/releases/download/1.2.0-jelly-smp-mods/olafsrelativeblocks-2.0.1-neoforge+mc26.3.jar"
+url = "https://downloads.sinixtra.us/mods/olafsrelativeblocks-2.0.2-neoforge%2Bmc26.3.jar"
 hash-format = "sha256"
-hash = "147b38565a389611376644e60237238386b634acbb510df7f55409d6e411a8f9"
+hash = "f88bb62cd773beed2ce335be59645fc884f16add174a05e153dcb9afcad4cf62"

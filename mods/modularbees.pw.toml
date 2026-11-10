@@ -1,8 +1,8 @@
 name = "ModularBees"
-filename = "ModularBees-26.3-1.0-port.2.jar"
+filename = "ModularBees-26.3-1.0-port.3-modern.dev.2.jar"
 side = "both"
 
 [download]
-url = "https://github.com/PacManny/jelly-smp/releases/download/1.2.0-jelly-smp-mods/ModularBees-26.3-1.0-port.2.jar"
+url = "https://downloads.sinixtra.us/mods/ModularBees-26.3-1.0-port.3-modern.dev.2.jar"
 hash-format = "sha256"
-hash = "08234c8aa6316648e4b97c8676e305cb25824e889f83896184ae73fc259a049e"
+hash = "b8a9c9b904e2789fafff37db8b23d21edfb153c26bbd21aeaaa098cf9254cc1f"
