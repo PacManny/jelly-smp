@@ -41,6 +41,14 @@ file = "datapacks/jelly-smp-darkloot-balanced-26.3.zip"
 hash = "75d5a9dacef6c475c166c6440f2d82cad7b6e0d8c717b2e62136775c187fa3b4"
 
 [[files]]
+file = "datapacks/jelly-smp-modern-construct-agritech-26.3.zip"
+hash = "74b132b5c97ba9ff3cd828e93bf1cbc3e5080d8b7f26aac486d1e21e0bed7793"
+
+[[files]]
+file = "datapacks/jelly-smp-reanimal-spawn-balance-26.3.zip"
+hash = "d29f32c1ba8a660a2b2bba93365f000b24cafa67cc34fee0dd553e229268d699"
+
+[[files]]
 file = "datapacks/jelly-smp-resource-unification.zip"
 hash = "dc1241f6400ec42d16908d02c59461aba304bc8a1e5a81870d94f2ff9cbdce02"
 
@@ -90,11 +98,6 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "d4ed5707e6a7a607edac5c536f4c814e347481fe383870d5c766472cdc062a4e"
-metafile = true
-
-[[files]]
-file = "mods/aquamirage.pw.toml"
-hash = "ed7a027dd2f02e41839aa1e52eba6f2996df5340487562234dcbb87df3b58ed8"
 metafile = true
 
 [[files]]
@@ -240,11 +243,6 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "c29644046dfa47abe056ccfaabe33cb53cefc05b2bfb845c3233f557830b179d"
-metafile = true
-
-[[files]]
-file = "mods/countereds-terrain-slabs.pw.toml"
-hash = "d78724dc625990e2ddd4b5eb87715d5bf9ccfff281748c72aa76fd265fdbefa4"
 metafile = true
 
 [[files]]
@@ -420,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "e2b0ec976aceaec4861e0dfc44af6305d4a8f3f10fa8771ceb46972ba503fea2"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "a0b213012f241d07b9b2a62c6624c4ccf66eec306316f30a6d2e41b2a5cdb210"
 metafile = true
 
 [[files]]
@@ -858,6 +861,11 @@ hash = "1fcc0d908adf44f875e7748c8792a800ddfa7afcec118feb40de547200728573"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "bdc93f83a803a1c020f7609d915f5fa6f702e5597b953ddcb78d81fc52883c87"
+metafile = true
+
+[[files]]
 file = "mods/mos-moogs-ocean-structures.pw.toml"
 hash = "97417196cf6f5e1cf73e50155ba98a380e164f4e8e6dd58b4ceb0d7e42d06e6b"
 metafile = true
@@ -944,7 +952,7 @@ metafile = true
 
 [[files]]
 file = "mods/olafsrelativeblocks.pw.toml"
-hash = "f9e246d8c7ef76480768ba8102259160160b9c595645b4673fb6af9dacf3c5be"
+hash = "01f5d6554223e9d0a8da0e6caf0265a9f87a8367ef808436b68ab22ee7cf7b87"
 metafile = true
 
 [[files]]
@@ -1120,6 +1128,11 @@ metafile = true
 [[files]]
 file = "mods/sleeping-bags.pw.toml"
 hash = "9786554d21f0cac48c8f54713d6d7b64971479bf76e0effd1dfb3113f35e5c97"
+metafile = true
+
+[[files]]
+file = "mods/smart-particles.pw.toml"
+hash = "8828e3fa93f638b875536796b1e1f0c4dc6ed7044160bba29c7f9e739e853cda"
 metafile = true
 
 [[files]]

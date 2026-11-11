@@ -1,8 +1,8 @@
 name = "olafsrelativeblocks"
-filename = "olafsrelativeblocks-2.0.2-neoforge+mc26.3.jar"
+filename = "olafsrelativeblocks-2.0.3-neoforge+mc26.3.jar"
 side = "both"
 
 [download]
-url = "https://downloads.sinixtra.us/mods/olafsrelativeblocks-2.0.2-neoforge%2Bmc26.3.jar"
+url = "https://downloads.sinixtra.us/mods/olafsrelativeblocks-2.0.3-neoforge%2Bmc26.3.jar"
 hash-format = "sha256"
-hash = "f88bb62cd773beed2ce335be59645fc884f16add174a05e153dcb9afcad4cf62"
+hash = "efce5e3a5e3bee67482834cf72c2481b0dc9081b1458ee7a0643341a55e16e51"
