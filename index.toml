@@ -41,6 +41,10 @@ file = "datapacks/jelly-smp-darkloot-balanced-26.3.zip"
 hash = "75d5a9dacef6c475c166c6440f2d82cad7b6e0d8c717b2e62136775c187fa3b4"
 
 [[files]]
+file = "datapacks/jelly-smp-modded-structure-loot-bonus-26.3.zip"
+hash = "d137720d461a16fc7093ecee8553616dc41a3b766956509f90851536e92ac6ba"
+
+[[files]]
 file = "datapacks/jelly-smp-modern-construct-agritech-26.3.zip"
 hash = "74b132b5c97ba9ff3cd828e93bf1cbc3e5080d8b7f26aac486d1e21e0bed7793"
 
