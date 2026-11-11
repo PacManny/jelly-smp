@@ -1,0 +1,8 @@
+name = "Modern Mantle"
+filename = "ModernMantle-26.3-1.12.0-modern.2.jar"
+side = "both"
+
+[download]
+url = "https://downloads.sinixtra.us/mods/ModernMantle-26.3-1.12.0-modern.2.jar"
+hash-format = "sha256"
+hash = "78929ac4802cca53033969f2fa5059cacac2da4ce1faa396e0f7c6786b7b6591"

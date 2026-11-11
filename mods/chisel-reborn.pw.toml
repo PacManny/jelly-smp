@@ -1,0 +1,13 @@
+name = "Chisel Reborn [Forge/Fabric/NeoForge]"
+filename = "chisel-neoforge-2.2.1+mc26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3435c794aac468a1c17fac5500fb73d37ae64511"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8925890
+project-id = 551763

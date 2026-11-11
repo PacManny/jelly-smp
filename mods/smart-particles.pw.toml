@@ -1,0 +1,13 @@
+name = "Smart Particles"
+filename = "smart_particles-26.3.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/l8rWP4Tc/versions/rWZ2ROOk/smart_particles-26.3.0.jar"
+hash-format = "sha512"
+hash = "a2f6b7c16d5c30adda299b0b19a3c31e7eb15e8adeb7c228e9f74eb0e5ea279e911e13e904d148adf57675c2291dbcaa1f7dd1a4143cb3843756b6dbdc68e51d"
+
+[update]
+[update.modrinth]
+mod-id = "l8rWP4Tc"
+version = "rWZ2ROOk"

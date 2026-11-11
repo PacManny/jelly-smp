@@ -5,6 +5,14 @@ file = "config/compressedblocks/custom_blocks.jsonc"
 hash = "3c33a447d92ca33cff867f61c3441a50a818a51ba41a6cc8cae1afc59ebd8e3b"
 
 [[files]]
+file = "config/evilcraft-local.toml"
+hash = "868040a0336b75a76eb7d6c01ff550ca1cf30243e12d28af2cda337da0d027a9"
+
+[[files]]
+file = "config/global_packs.toml"
+hash = "9e5eddb34adcfc916f8322c57d3521c422fda073f95583640e0edbb1163b2403"
+
+[[files]]
 file = "config/jeresources-local.toml"
 hash = "8c9f2bad6219ddd16e8196b211028626dcdd454854287261775d1d585775d979"
 
@@ -29,8 +37,32 @@ file = "datapacks/jelly-smp-cb-mekanism-data.zip"
 hash = "642673e51c3d61d5854138efc2fe80d942f44182eb03feb8e8dcb50f469bc31e"
 
 [[files]]
+file = "datapacks/jelly-smp-darkloot-balanced-26.3.zip"
+hash = "75d5a9dacef6c475c166c6440f2d82cad7b6e0d8c717b2e62136775c187fa3b4"
+
+[[files]]
+file = "datapacks/jelly-smp-modded-structure-loot-bonus-26.3.zip"
+hash = "d137720d461a16fc7093ecee8553616dc41a3b766956509f90851536e92ac6ba"
+
+[[files]]
+file = "datapacks/jelly-smp-modern-construct-agritech-26.3.zip"
+hash = "74b132b5c97ba9ff3cd828e93bf1cbc3e5080d8b7f26aac486d1e21e0bed7793"
+
+[[files]]
+file = "datapacks/jelly-smp-reanimal-spawn-balance-26.3.zip"
+hash = "d29f32c1ba8a660a2b2bba93365f000b24cafa67cc34fee0dd553e229268d699"
+
+[[files]]
 file = "datapacks/jelly-smp-resource-unification.zip"
 hash = "dc1241f6400ec42d16908d02c59461aba304bc8a1e5a81870d94f2ff9cbdce02"
+
+[[files]]
+file = "datapacks/no-natural-tainted-lands-mc26.3.zip"
+hash = "70a6d72b0086142efcc809476e319c9fd90668b39c6492276d2d6635988ebde5"
+
+[[files]]
+file = "datapacks/structure-loot-bonus-mc26.3.zip"
+hash = "79283012d14651cffc36725672c380829c31548e9496955f7d0ee2886be055ae"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -70,11 +102,6 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "d4ed5707e6a7a607edac5c536f4c814e347481fe383870d5c766472cdc062a4e"
-metafile = true
-
-[[files]]
-file = "mods/aquamirage.pw.toml"
-hash = "ed7a027dd2f02e41839aa1e52eba6f2996df5340487562234dcbb87df3b58ed8"
 metafile = true
 
 [[files]]
@@ -163,6 +190,11 @@ hash = "f3c18e924ed5f97ceb38a061eafb60065322b624aa8aa05a464d80bb2b14f7d9"
 metafile = true
 
 [[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "03548f000e070ab0160631f6ea1f0f59e0715c312db85a86d8612d2f1ce4ef8b"
+metafile = true
+
+[[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "b6726bef4a4dbfdb84d8eff059738b273579b67c64f1f71dc5e640135a36017c"
 metafile = true
@@ -240,6 +272,21 @@ metafile = true
 [[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "2383e7bae112c50a8782dd2e1b13434ed3631b6f8ea1dc2f6b813116b2d09734"
+metafile = true
+
+[[files]]
+file = "mods/croptopia.pw.toml"
+hash = "e5424126cd8af9802df315620b7074e596c7db3353b9637c5c1e77f2e6164b97"
+metafile = true
+
+[[files]]
+file = "mods/cryonicconfig.pw.toml"
+hash = "d34f1b425656095185b5ab6746b2980ccf90599637e80cbf6175ec23a9e56aa2"
+metafile = true
+
+[[files]]
+file = "mods/ctm-reborn.pw.toml"
+hash = "87a854a6b2bd48e3cb16fff8cffac1acc04ddfe9f30435a4d4f04e32b971d189"
 metafile = true
 
 [[files]]
@@ -378,8 +425,18 @@ hash = "e2b0ec976aceaec4861e0dfc44af6305d4a8f3f10fa8771ceb46972ba503fea2"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "a0b213012f241d07b9b2a62c6624c4ccf66eec306316f30a6d2e41b2a5cdb210"
+metafile = true
+
+[[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "695d99c05e840c90734a473b9a71305267b34876cd68c5491246013340a5b568"
+metafile = true
+
+[[files]]
+file = "mods/epherolib.pw.toml"
+hash = "e62d870c73d3691aab5fafe2aeb81a7d7af7b685a2be9ed7cfc174ed1bec2c01"
 metafile = true
 
 [[files]]
@@ -728,6 +785,11 @@ hash = "028c168387c61c2f13c1a3dac97daf103b4be7b54aea4cde666bdb44e775edcf"
 metafile = true
 
 [[files]]
+file = "mods/mech-trowel.pw.toml"
+hash = "d90ad889a830f05dccf06ce2f67ffc125ef3dcfe61e613e9243fbf654389cc1c"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "dad48cd360e4511aca19817cdb349b474c6402ba972329955a7823ee7144d247"
 metafile = true
@@ -748,6 +810,11 @@ hash = "01cad6bc6b064a25877c6d76877a23095b2456c03d5397d7a568c2402d5dc05f"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "9c5670d3af117207b3548a5fb8730ca0a61ad38c3454d8852847a62403c37dc0"
+metafile = true
+
+[[files]]
 file = "mods/mint-lib.pw.toml"
 hash = "0f672e9c5bae717f96fff7a9f14f23d00461feb02740336bb6dad5ca5ec39dbf"
 metafile = true
@@ -763,13 +830,23 @@ hash = "564ee6011cce0794cb5f6b7a9a8fa636bb1d6e5afc2e745987698349cc2a4d9a"
 metafile = true
 
 [[files]]
+file = "mods/modern-construct.pw.toml"
+hash = "59477fdc03bb17e079bb36bdf84c114d4fea1ca21ed66d943783530c7a2f68b7"
+metafile = true
+
+[[files]]
+file = "mods/modern-mantle.pw.toml"
+hash = "a5eaa094306ed1f96a0ce1078442cc915acac0372a357f612fd35778cb225c1a"
+metafile = true
+
+[[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "aa87218ef22425b5e63e776082653987134128a2804142f37fecc622bea2b4bc"
 metafile = true
 
 [[files]]
 file = "mods/modularbees.pw.toml"
-hash = "e2a96a952d1b8837e867e22f22987273733d24f4da66b24355eb7b1b7712d381"
+hash = "85ff19984e7f816ff9dba038312631c9983d65d71e11391cdb125f7cbd3837ce"
 metafile = true
 
 [[files]]
@@ -785,6 +862,11 @@ metafile = true
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
 hash = "1fcc0d908adf44f875e7748c8792a800ddfa7afcec118feb40de547200728573"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "bdc93f83a803a1c020f7609d915f5fa6f702e5597b953ddcb78d81fc52883c87"
 metafile = true
 
 [[files]]
@@ -834,7 +916,7 @@ metafile = true
 
 [[files]]
 file = "mods/nekoma-s-fixed.pw.toml"
-hash = "1cc2b5fc2819b9b9b1198acc6112c8f82840add6f492c46862c09fef6b074f54"
+hash = "9fe3850b820bc61d234956976ff1bfd23729d7cbce100e143dd2281294f5f487"
 metafile = true
 
 [[files]]
@@ -874,7 +956,7 @@ metafile = true
 
 [[files]]
 file = "mods/olafsrelativeblocks.pw.toml"
-hash = "44aac7ca99106f21ca49753752ff146a5d27d1a7c1939ab4270b5e296973b9b3"
+hash = "01f5d6554223e9d0a8da0e6caf0265a9f87a8367ef808436b68ab22ee7cf7b87"
 metafile = true
 
 [[files]]
@@ -934,7 +1016,7 @@ metafile = true
 
 [[files]]
 file = "mods/productivebees.pw.toml"
-hash = "8840d2411766b14e8f7d43728e6dcb39ec4a3194714abccb34934040728c3799"
+hash = "d9a35402deba3b0348d9f688afd9c06ffec5506190fa6cb1d2f5cc305b4c42b7"
 metafile = true
 
 [[files]]
@@ -1045,6 +1127,16 @@ metafile = true
 [[files]]
 file = "mods/simple-config-lib.pw.toml"
 hash = "3fd3ec82c5b086d61b7f9847e9f0cbc831e92323f2d171e29ba18628865a4772"
+metafile = true
+
+[[files]]
+file = "mods/sleeping-bags.pw.toml"
+hash = "9786554d21f0cac48c8f54713d6d7b64971479bf76e0effd1dfb3113f35e5c97"
+metafile = true
+
+[[files]]
+file = "mods/smart-particles.pw.toml"
+hash = "8828e3fa93f638b875536796b1e1f0c4dc6ed7044160bba29c7f9e739e853cda"
 metafile = true
 
 [[files]]
