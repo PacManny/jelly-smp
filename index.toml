@@ -164,11 +164,6 @@ hash = "6f33996862d580a5e73f59859b720f093e17fb8dcd5b33a05855c2bfdbbbdf0e"
 metafile = true
 
 [[files]]
-file = "mods/better-respawn.pw.toml"
-hash = "a4a3b4ff6b01ed8622938330169c602a34f8709020d7a6363abcbd644ed43cbf"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "a6e4efdf0210704081ddcc577e8d2f412a7bb4d542eb69c9dd424a1c6a4a43d3"
 metafile = true
