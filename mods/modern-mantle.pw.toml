@@ -1,8 +1,8 @@
 name = "Modern Mantle"
-filename = "ModernMantle-26.3-1.12.0-modern.2.jar"
+filename = "ModernMantle-26.3-1.12.0-modern.2.bookfix.3.jar"
 side = "both"
 
 [download]
-url = "https://downloads.sinixtra.us/mods/ModernMantle-26.3-1.12.0-modern.2.jar"
+url = "https://downloads.sinixtra.us/mods/ModernMantle-26.3-1.12.0-modern.2.bookfix.3.jar"
 hash-format = "sha256"
-hash = "78929ac4802cca53033969f2fa5059cacac2da4ce1faa396e0f7c6786b7b6591"
+hash = "50a3e4fb50695e50a5267b97ce6d61bf1666a28527411a704c4f5b4c6b02f6d9"

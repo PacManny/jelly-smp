@@ -835,12 +835,12 @@ metafile = true
 
 [[files]]
 file = "mods/modern-construct.pw.toml"
-hash = "59477fdc03bb17e079bb36bdf84c114d4fea1ca21ed66d943783530c7a2f68b7"
+hash = "1debeafd8ab1895f3ea27b5baa6ffb2ce83099f99e3349d26e9012d01f25a1e8"
 metafile = true
 
 [[files]]
 file = "mods/modern-mantle.pw.toml"
-hash = "a5eaa094306ed1f96a0ce1078442cc915acac0372a357f612fd35778cb225c1a"
+hash = "b13cb0881a8a7fd8303cfff6276c9be0a6b2f66b94830ebad076a6a22c6e9691"
 metafile = true
 
 [[files]]

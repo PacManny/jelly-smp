@@ -1,8 +1,8 @@
 name = "Modern Construct"
-filename = "ModernConstruct-26.3-3.12.1-modern.1.beescompat.9.jar"
+filename = "ModernConstruct-26.3-3.12.1-modern.1.beescompat.10.jar"
 side = "both"
 
 [download]
-url = "https://downloads.sinixtra.us/mods/ModernConstruct-26.3-3.12.1-modern.1.beescompat.9.jar"
+url = "https://downloads.sinixtra.us/mods/ModernConstruct-26.3-3.12.1-modern.1.beescompat.10.jar"
 hash-format = "sha256"
-hash = "22a57f091bc58bf4d65a8f97ba669ae80b9c91e0e1f0e5bf69b21b3a4be1b6db"
+hash = "2e3e53aa62b7ea425825b1ec6a8919e9d7edf37585824c62bfd1e186bb15da49"
