@@ -835,7 +835,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-construct.pw.toml"
-hash = "1debeafd8ab1895f3ea27b5baa6ffb2ce83099f99e3349d26e9012d01f25a1e8"
+hash = "89a99b047b156dd622460e14df9407935cd03c41fd2225772b50f8fac00dd5a8"
 metafile = true
 
 [[files]]
