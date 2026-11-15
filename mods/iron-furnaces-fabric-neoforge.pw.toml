@@ -1,0 +1,13 @@
+name = "Iron Furnaces (Fabric & NeoForge)"
+filename = "ironfurnacesneoforge-26.3-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ede725bb1bf7f3bce9234f006fa1dd1b4d2a242"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9208747
+project-id = 1506700

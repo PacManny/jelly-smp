@@ -74,11 +74,6 @@ hash = "39f92852bc6dee7f2552faed90653e42a944d0c8b849514859b5583d0847095f"
 metafile = true
 
 [[files]]
-file = "mods/advanced-hook-launchers.pw.toml"
-hash = "f02de72000a1475d89a46a81fc1ef5137e0a3ddd3da58d573c281efffb7338d1"
-metafile = true
-
-[[files]]
 file = "mods/advanced-netherite.pw.toml"
 hash = "e0e04aa574202be02591018964a8496a4a0949dec24c9c0828126a66d7edfc5a"
 metafile = true
@@ -176,11 +171,6 @@ metafile = true
 [[files]]
 file = "mods/cb-compressed-blocks.pw.toml"
 hash = "283bc81fea7b365c4eeda2c3d9e013f018765fa564136ae224f10624308e2ed9"
-metafile = true
-
-[[files]]
-file = "mods/cdna.pw.toml"
-hash = "5d45ac9835649211cf3b0049ebb84915a9aad518253b446551c1b2a6101091a3"
 metafile = true
 
 [[files]]
@@ -535,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "3ac3aa7bd46356a00451f3e206db8dff1a361a92d2e94ada88dbc6558c3ff94e"
+hash = "30290f48dab890e623dded5f84521075ada47337249b337e317391bbc4e3bd45"
 metafile = true
 
 [[files]]
@@ -604,6 +594,11 @@ hash = "fbcc28979b300ff97290ae096cde6728e232aca12a0c0501074383248adc2aae"
 metafile = true
 
 [[files]]
+file = "mods/iron-furnaces-fabric-neoforge.pw.toml"
+hash = "af08ef27283de022790a2bc5044d45c5006835469726a0f0c9874bae84067e8c"
+metafile = true
+
+[[files]]
 file = "mods/iron-generators.pw.toml"
 hash = "7406a610ae15ddae25fe9cf4a079070bcc6bef7ea0cc98233ddcdd8956adc36b"
 metafile = true
@@ -630,7 +625,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "3a36cbebbc28cdb50cabbdfd1399be40276de151915745d1ae15df63a756f31e"
+hash = "4c48a72e96d3e140e71841f745170736f647e5a6513650e9e2902b6c8b3c0c98"
 metafile = true
 
 [[files]]
@@ -944,11 +939,6 @@ hash = "0c7b364fb8a5179498d5d9f21ee03e9a7b72e20246f9b06d467a00762b3f0b3b"
 metafile = true
 
 [[files]]
-file = "mods/olafsrelativeblocks.pw.toml"
-hash = "01f5d6554223e9d0a8da0e6caf0265a9f87a8367ef808436b68ab22ee7cf7b87"
-metafile = true
-
-[[files]]
 file = "mods/omni-wheel.pw.toml"
 hash = "50d275fa84064558c8e05334535704e5bfa3f24b481aa24be75874563c8dbc81"
 metafile = true
@@ -1001,6 +991,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph-plus.pw.toml"
 hash = "b76f5a0a786b23324acd05c3a56160b614e28824759febe972a55b8deec7ab45"
+metafile = true
+
+[[files]]
+file = "mods/powah-rearchitected.pw.toml"
+hash = "f5f712a01f120440d008e4f06610bd7c020ca827e88112196374766d104f1da9"
 metafile = true
 
 [[files]]
