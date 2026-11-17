@@ -779,17 +779,17 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-generators.pw.toml"
-hash = "dad48cd360e4511aca19817cdb349b474c6402ba972329955a7823ee7144d247"
+hash = "96617db5a1a49dd1d7045ad9a82e5dbcd9087509061902c635c7352793fb5832"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-tools.pw.toml"
-hash = "811d49291e7d741262b7be2138a753208790187d596557c7307ff396b5f36293"
+hash = "04df3e913e5df6036be94dd228a9ee8008218f1b453d098293f20ba4e4019ea4"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "11e04b269ebfa454653f6694583291a2842d9d365b8097fd87f203cd0fb22e91"
+hash = "3cbec231b124e03132db3f8f228e8e1ddaabac8aee71abe5d17c95c4fe07020d"
 metafile = true
 
 [[files]]
