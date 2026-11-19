@@ -1,0 +1,8 @@
+name = "LaserIO"
+filename = "laserio-1.10.2-mc26.3.jar"
+side = "both"
+
+[download]
+url = "https://downloads.sinixtra.us/mods/laserio-1.10.2-mc26.3.jar"
+hash-format = "sha256"
+hash = "920838ebe25c13c3d83628edc0d28743af5613b56d334b70f9c08dce34c68524"
