@@ -433,6 +433,26 @@ hash = "5444ae68dff06777dcb2ba7ed2b930c758e4569d15c09bb67e66403a2fa32657"
 metafile = true
 
 [[files]]
+file = "mods/epic-structures-igloo.pw.toml"
+hash = "1e6862a9c37a8712e019551c80ed3a5351493fc0795ba37e23303133924e1a99"
+metafile = true
+
+[[files]]
+file = "mods/epic-structures-jungle-temples.pw.toml"
+hash = "b7c52344e217c878df3561cdf13c3a81112fb2ac39e8712283711a6254590a75"
+metafile = true
+
+[[files]]
+file = "mods/epic-structures-witch-huts.pw.toml"
+hash = "611be3b1bffab57629d6fca3718d31fcf2649be3b74c61841a9e52739774cc3e"
+metafile = true
+
+[[files]]
+file = "mods/epic-villages.pw.toml"
+hash = "914e26c7494472574cc5db50a088d066fe37ad3fd45aa979f6f6b91190d1a857"
+metafile = true
+
+[[files]]
 file = "mods/escape-rope.pw.toml"
 hash = "1b3c96195f23bdfa98d69bf68c1051ea51eb6c96b969e885da23a74f2af6bbfd"
 metafile = true
@@ -680,6 +700,16 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "419e6b776e10790236321f646ad134eb17ada628755443d354ee64c95c593460"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-ati-structures-epic-structures.pw.toml"
+hash = "aca273a0f8e276435aace5dc2e16da21bf281ec3eb612eaa8f645b75fb5d86b9"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations.pw.toml"
+hash = "f80fb70d7bb04a0b49295772c91e1b51fd7fdc9eca4f39c6c644fa9f2218c6e5"
 metafile = true
 
 [[files]]
