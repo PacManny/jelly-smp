@@ -1,13 +1,8 @@
 name = "Pipez"
-filename = "pipez-neoforge-1.2.33+26.3.jar"
+filename = "pipez-neoforge-1.2.33+26.3.mekcompat.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "536bc39c831bced16b8967dfdd609ac116bad3b1"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 9027386
-project-id = 443900
+url = "https://downloads.sinixtra.us/mods/pipez-neoforge-1.2.33%2B26.3.mekcompat.1.jar"
+hash-format = "sha256"
+hash = "3702cd794cbef6a759b9606d1a861dd45c11143e9878d4543e3010431922229a"
