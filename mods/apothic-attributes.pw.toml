@@ -1,0 +1,8 @@
+name = "Condemned Apothic Attributes"
+filename = "CondemnedApothicAttributes-26.3-3.1.0-condemned.2.jar"
+side = "both"
+
+[download]
+url = "https://downloads.sinixtra.us/mods/CondemnedApothicAttributes-26.3-3.1.0-condemned.2.jar"
+hash-format = "sha256"
+hash = "9d143895fbe3e7214d7e7795fc7332321a80e894cdef73d6f7c0af91bcab9d2f"

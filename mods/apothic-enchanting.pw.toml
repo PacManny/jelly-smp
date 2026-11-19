@@ -1,0 +1,8 @@
+name = "Condemned Apothic Enchanting"
+filename = "CondemnedApothicEnchanting-26.3-2.1.0-condemned.3.jar"
+side = "both"
+
+[download]
+url = "https://downloads.sinixtra.us/mods/CondemnedApothicEnchanting-26.3-2.1.0-condemned.3.jar"
+hash-format = "sha256"
+hash = "f9d15b9d8ab5811c2189f6af37808fa80aa816a27e40b512b3d82d9f94a1166a"

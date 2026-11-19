@@ -4,6 +4,11 @@
     "force_compatible": true
   },
   "default_packs": [
+    "file/condemned-placebo-original-assets.zip",
+    "file/condemned-apothic-original-assets.zip",
+    "file/condemned-apotheosis-original-assets.zip",
+    "file/condemned-apothic-enchanting-original-assets.zip",
+    "file/condemned-apothic-spawners-original-assets.zip",
     "file/jelly-smp-cb-mekanism-resources.zip"
   ],
   "pack_overrides": {
@@ -11,6 +16,26 @@
       "required": true,
       "default_position": "TOP",
       "hidden": false
+    },
+    "file/condemned-placebo-original-assets.zip": {
+      "required": true,
+      "hidden": true
+    },
+    "file/condemned-apothic-original-assets.zip": {
+      "required": true,
+      "hidden": true
+    },
+    "file/condemned-apotheosis-original-assets.zip": {
+      "required": true,
+      "hidden": true
+    },
+    "file/condemned-apothic-enchanting-original-assets.zip": {
+      "required": true,
+      "hidden": true
+    },
+    "file/condemned-apothic-spawners-original-assets.zip": {
+      "required": true,
+      "hidden": true
     }
   }
 }

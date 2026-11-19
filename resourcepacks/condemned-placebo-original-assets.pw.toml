@@ -1,0 +1,8 @@
+name = "Condemned Placebo Assets"
+filename = "condemned-placebo-original-assets.zip"
+side = "client"
+
+[download]
+url = "https://downloads.sinixtra.us/resourcepacks/condemned-placebo-original-assets.zip"
+hash-format = "sha256"
+hash = "0de739a4893e3a048b63fb331910be2d68059004e38553c224a19ccee33e63c3"

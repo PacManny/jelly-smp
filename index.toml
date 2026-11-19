@@ -22,7 +22,7 @@ hash = "b0711ff25ce8d29f775dd9e6707486bd9f3b602523926d07795b97abbc2a6190"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "9c50ee772d2dc61182fd17bb157130f6887bd01c812504758b2ebc5bde222e50"
+hash = "29ef6090b87e58e27c357820776d066da0b5e629dab5cbae3b7a23ebc6335be0"
 
 [[files]]
 file = "config/world-gen.json"
@@ -90,6 +90,26 @@ metafile = true
 [[files]]
 file = "mods/animal-feeding-trough.pw.toml"
 hash = "37add5bf5a2dbdf7dc742aefe57dcd0223c4807894892373ad4ee1183984fe91"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "0e51e0cfe06821f281895ead557a9d4e9e09c8a0e694134d4ba860f821434b59"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "2fde0f56e5f896f101d061f2e75358fd941ac28bb3324344608b887602c5fc17"
+metafile = true
+
+[[files]]
+file = "mods/apothic-enchanting.pw.toml"
+hash = "1f0e46e61420a2905c255d14500ff9ef88e1ddd5230c3f4d32664201e03ffa38"
+metafile = true
+
+[[files]]
+file = "mods/apothic-spawners.pw.toml"
+hash = "fab50e2058871586d729a7dedc1b00a097b4ad090e68c31bbc0e05ac88600601"
 metafile = true
 
 [[files]]
@@ -205,6 +225,11 @@ metafile = true
 [[files]]
 file = "mods/common-capabilities.pw.toml"
 hash = "26c1992b19c85d9be784b8717c349ebd45424a3295930006e147f5ea0b73dfed"
+metafile = true
+
+[[files]]
+file = "mods/condemned-placebo.pw.toml"
+hash = "4dac91e5b7f869f9f2bb5a7794a07bf693b66c14cca4c27e983b10976eb20562"
 metafile = true
 
 [[files]]
@@ -1315,6 +1340,31 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "d9cd32f22f5165ae419c1590049457e8b9dc919ec59b2c6f25e87598b969f353"
+metafile = true
+
+[[files]]
+file = "resourcepacks/condemned-apotheosis-original-assets.pw.toml"
+hash = "406ad84be46e9b3ae0bb292c2ebded5869c4c0f99c2f97ca2c7b1124ad613db7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/condemned-apothic-enchanting-original-assets.pw.toml"
+hash = "8c5310efba237327007ef52efe9502d8ffb7acb09db6e4a1ead0ba4545f04d25"
+metafile = true
+
+[[files]]
+file = "resourcepacks/condemned-apothic-original-assets.pw.toml"
+hash = "c12c5195b392bc48f2874b7b1abfd725dd0fefb539da8c7fe1e4227205146683"
+metafile = true
+
+[[files]]
+file = "resourcepacks/condemned-apothic-spawners-original-assets.pw.toml"
+hash = "3e7ccb5551d4be3b540213e9e61b371f4af39bb9c07a1a75685889bc068ca6a0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/condemned-placebo-original-assets.pw.toml"
+hash = "463bb1297b6ab37e0cf8979921371b6f6952d81a6654689d8a202d50aa129088"
 metafile = true
 
 [[files]]

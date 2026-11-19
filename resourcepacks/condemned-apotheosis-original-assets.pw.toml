@@ -1,0 +1,8 @@
+name = "Condemned Apotheosis Assets"
+filename = "condemned-apotheosis-original-assets.zip"
+side = "client"
+
+[download]
+url = "https://downloads.sinixtra.us/resourcepacks/condemned-apotheosis-original-assets.zip"
+hash-format = "sha256"
+hash = "c0eaafb4d7adc32851adf9ecaaad4dde364c3c1df487f836f8f3b4c0d836a72c"

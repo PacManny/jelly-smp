@@ -1,0 +1,8 @@
+name = "Condemned Apothic Attributes Assets"
+filename = "condemned-apothic-original-assets.zip"
+side = "client"
+
+[download]
+url = "https://downloads.sinixtra.us/resourcepacks/condemned-apothic-original-assets.zip"
+hash-format = "sha256"
+hash = "d062c707db2fb459709f7375deb305ee2955ac330ca0396191a5f3981c83da15"

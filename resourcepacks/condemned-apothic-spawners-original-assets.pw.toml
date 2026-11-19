@@ -1,0 +1,8 @@
+name = "Condemned Apothic Spawners Assets"
+filename = "condemned-apothic-spawners-original-assets.zip"
+side = "client"
+
+[download]
+url = "https://downloads.sinixtra.us/resourcepacks/condemned-apothic-spawners-original-assets.zip"
+hash-format = "sha256"
+hash = "d39762931fb156ea77fcb8966e6089ceb61023261b0e04f320a6f43526248b96"

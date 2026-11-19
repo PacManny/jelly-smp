@@ -1,0 +1,8 @@
+name = "Condemned Placebo"
+filename = "CondemnedPlacebo-26.3-10.0.2-condemned.3.jar"
+side = "both"
+
+[download]
+url = "https://downloads.sinixtra.us/mods/CondemnedPlacebo-26.3-10.0.2-condemned.3.jar"
+hash-format = "sha256"
+hash = "d0f1a2bebafae864616828103c48199f203114ed0771f4abca151cbdc2d1d25f"

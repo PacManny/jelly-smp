@@ -1,0 +1,8 @@
+name = "Condemned Apothic Enchanting Assets"
+filename = "condemned-apothic-enchanting-original-assets.zip"
+side = "client"
+
+[download]
+url = "https://downloads.sinixtra.us/resourcepacks/condemned-apothic-enchanting-original-assets.zip"
+hash-format = "sha256"
+hash = "0be815438c9450035bcaf92861dd8d56022b7a580e67b5b7587b61de03642241"

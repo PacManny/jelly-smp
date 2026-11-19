@@ -1,0 +1,8 @@
+name = "Condemned Apothic Spawners"
+filename = "CondemnedApothicSpawners-26.3-2.0.1-condemned.2.jar"
+side = "both"
+
+[download]
+url = "https://downloads.sinixtra.us/mods/CondemnedApothicSpawners-26.3-2.0.1-condemned.2.jar"
+hash-format = "sha256"
+hash = "313c0a0c31d9165e39a4615bb15716abb055bc956f6511d2c0f1db50303de763"
