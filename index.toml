@@ -423,11 +423,6 @@ hash = "e8dafeb5fd21df8561c766c58110c0546e48dbbf3c69c8bbbd784851bdfb5dbb"
 metafile = true
 
 [[files]]
-file = "mods/endremastered.pw.toml"
-hash = "76dead115d986a8fa799b1aae37348ea79e2ffbd65b22bb07a93de1f2be649a6"
-metafile = true
-
-[[files]]
 file = "mods/energized-power.pw.toml"
 hash = "4cf8a31149459648c63058205f988f6b2a950a22d5d87fe54f333742deed2eae"
 metafile = true
