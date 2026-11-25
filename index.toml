@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
-hash = "123a6a9e68050d49d6ea183c041245137e24a3b26ab561a5f271267514547608"
+hash = "87fa80d2b7252a4a7643cfc10809afbc45198ab92986519f563c54bc0582eeb1"
 metafile = true
 
 [[files]]
@@ -889,7 +889,7 @@ metafile = true
 
 [[files]]
 file = "mods/modularbees.pw.toml"
-hash = "85ff19984e7f816ff9dba038312631c9983d65d71e11391cdb125f7cbd3837ce"
+hash = "3f132d583d7029712c58c39662bebbb11e4caa41b25f9f49c266d3f53fb8dad6"
 metafile = true
 
 [[files]]
@@ -1064,7 +1064,7 @@ metafile = true
 
 [[files]]
 file = "mods/productivebees.pw.toml"
-hash = "d9a35402deba3b0348d9f688afd9c06ffec5506190fa6cb1d2f5cc305b4c42b7"
+hash = "d329d54452fdb390383ba37b764f95a8329cf8f29ce42eb5190222093fe5a053"
 metafile = true
 
 [[files]]
@@ -1294,7 +1294,7 @@ metafile = true
 
 [[files]]
 file = "mods/trash-cans.pw.toml"
-hash = "a79359b59ae318640b42128f0ca8aab86469a2bdb4a1f2a03a0295ee100caf9a"
+hash = "8f7fdad43ae628690b6490576dba744b068d59e083eb49bd28be2da188d87353"
 metafile = true
 
 [[files]]

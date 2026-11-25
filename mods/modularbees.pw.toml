@@ -1,8 +1,8 @@
 name = "ModularBees"
-filename = "ModularBees-26.3-1.0-port.3-modern.dev.2.jar"
+filename = "ModularBees-26.3-1.0-port.4-stability.dev.jar"
 side = "both"
 
 [download]
-url = "https://downloads.sinixtra.us/mods/ModularBees-26.3-1.0-port.3-modern.dev.2.jar"
+url = "https://downloads.sinixtra.us/mods/ModularBees-26.3-1.0-port.4-stability.dev.jar"
 hash-format = "sha256"
-hash = "b8a9c9b904e2789fafff37db8b23d21edfb153c26bbd21aeaaa098cf9254cc1f"
+hash = "0a75909e6182395df2ff85c3c9d64b82c6c7ea73b12ce1c4c2b5d0c888be9322"

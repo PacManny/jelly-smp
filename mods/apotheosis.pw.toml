@@ -1,8 +1,8 @@
 name = "Condemned Apotheosis"
-filename = "CondemnedApotheosis-26.3-9.1.0-condemned.8.jar"
+filename = "CondemnedApotheosis-26.3-9.1.0-condemned.9.jar"
 side = "both"
 
 [download]
-url = "https://downloads.sinixtra.us/mods/CondemnedApotheosis-26.3-9.1.0-condemned.8.jar"
+url = "https://downloads.sinixtra.us/mods/CondemnedApotheosis-26.3-9.1.0-condemned.9.jar"
 hash-format = "sha256"
-hash = "4db4dca3920a4b11fa5a9bc65ec9f6d705111dd289483ce31565a5b05d3c88d7"
+hash = "2d47ecabc7d74f8d71e32c9446abf2fed7f2d7dba51c42017ccd36ae26567f2c"

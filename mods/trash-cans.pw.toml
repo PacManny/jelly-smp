@@ -3,11 +3,6 @@ filename = "trashcans-1.1.2a-neoforge-mc26.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d8fe05009407d6eacef49608f8f9539568162141"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 9389549
-project-id = 394535
+url = "https://downloads.sinixtra.us/mods/trashcans-1.1.2a-neoforge-mc26.3.jar"
+hash-format = "sha256"
+hash = "06f70f9620d65e4fd208074491fb01561468cab5b516b92f7ac0b3a633d9526e"
