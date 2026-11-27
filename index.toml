@@ -173,6 +173,11 @@ hash = "afdde52e1e43bf6ade8f2179603f07e47330768019b9cc359ef3088f9a18170a"
 metafile = true
 
 [[files]]
+file = "mods/better-advanced-tooltips.pw.toml"
+hash = "688a9a6d961c13d2f22fa6682fb979a2f0e977a20ac5a383e4a82d5c6b88dac8"
+metafile = true
+
+[[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "6fcc053cffeea9b8ee716d7da55b5ebe1cdadf36eb1f2352dadcb7b666202a86"
 metafile = true
